@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-10-26T09:27:36+11:00",
+  "items": [
+    {
+      "id": "2113631758659031291",
+      "url": "https://x.com/Shyamal890/status/2113631758659031291",
+      "author_handle": "Shyamal890",
+      "published_at": "2026-10-23T14:00:55.000Z",
+      "collected_at": "2026-10-26T09:14:00+11:00",
+      "original_excerpt": "SaaS is in for a rough ride.\n\nWe've already lost 5 customers to vibe-coded alternatives.\n\nBut 2 experiences made me rethink how big this disruption will be.\n\n1. One customer built her own software using AI.\n\nThen tasks and comments started disappearing.\n\nShe realized she couldn't risk running her business on unreliable software and switched back to SmartTask.\n\n2. Another customer let me explore their Claude Code-built alternative.\n\nThe UI was almost an exact replica of SmartTask. Genuinely impre",
+      "excerpt_truncated": true,
+      "likes": 6,
+      "replies": 13,
+      "reposts": 0,
+      "views": 279,
+      "source": "grok-bot-builtin-x search_posts_all",
+      "verification": "search_result"
+    },
+    {
+      "id": "2113609323062632891",
+      "url": "https://x.com/StanSadokov/status/2113609323062632891",
+      "author_handle": "StanSadokov",
+      "published_at": "2026-10-23T12:31:46.000Z",
+      "collected_at": "2026-10-26T09:14:00+11:00",
+      "original_excerpt": "ai visibility tools are insanely expensive.\n\npromptwatch business costs $579 a month and stops at 350 prompts. peec ai advanced costs $495 for the same 350.\n\nat enterprise volume, the price can easily reach $10,000 to $100,000.\n\nwe wanted to see which brands chatgpt and gemini recommend when people ask about proxies, across hundreds of prompts and different countries.\n\nour @nodemaven GEO API could already collect those answers through real browsers on our proxies, with a choice of countries and ",
+      "excerpt_truncated": true,
+      "likes": 10,
+      "replies": 4,
+      "reposts": 1,
+      "views": 1736,
+      "source": "grok-bot-builtin-x search_posts_all",
+      "verification": "search_result"
+    },
+    {
+      "id": "2112918969711829399",
+      "url": "https://x.com/felipediazc76/status/2112918969711829399",
+      "author_handle": "felipediazc76",
+      "published_at": "2026-10-21T14:48:33.000Z",
+      "collected_at": "2026-10-26T09:14:00+11:00",
+      "original_excerpt": "I built a SaaS solo, side by side with an AI agent: a Claude API assistant with real guardrails, 70+ tutorial videos generated with code, and e2e tests that found bugs no unit test caught. What I learned 👇\nhttps://t.co/SsbhArYGkx\n#Java #AI #BuildInPublic",
+      "excerpt_truncated": false,
+      "likes": 7,
+      "replies": 4,
+      "reposts": 0,
+      "views": 180,
+      "source": "grok-bot-builtin-x search_posts_all",
+      "verification": "search_result"
+    },
+    {
+      "id": "2112464818632593888",
+      "url": "https://x.com/mhdsas/status/2112464818632593888",
+      "author_handle": "mhdsas",
+      "published_at": "2026-10-20T08:43:55.000Z",
+      "collected_at": "2026-10-26T09:14:00+11:00",
+      "original_excerpt": "Most RAG demos answer questions.\n\nThe hard part inside a real company is answering them for the right person.\n\nSo I built an AI agent that decides refund requests, where permissions are enforced by the database, not the prompt.\n\nA thread on what I learned, part 1 of 8 🧵 https://t.co/vNPv9MAcRX",
+      "excerpt_truncated": false,
+      "likes": 1,
+      "replies": 1,
+      "reposts": 0,
+      "views": 150,
+      "source": "grok-bot-builtin-x search_posts_all",
+      "verification": "search_result"
+    },
+    {
+      "id": "2112257140262146433",
+      "url": "https://x.com/donnfelker/status/2112257140262146433",
+      "author_handle": "donnfelker",
+      "published_at": "2026-10-19T18:58:40.000Z",
+      "collected_at": "2026-10-26T09:14:00+11:00",
+      "original_excerpt": "We have many non-engineers shipping code to many of our systems with the help of well configured AI Agent harnesses ... all through Slack. \n\nThis is how we did it ... https://t.co/dxzGOCONKp",
+      "excerpt_truncated": false,
+      "likes": 55,
+      "replies": 64,
+      "reposts": 2,
+      "views": 8746,
+      "source": "grok-bot-builtin-x search_posts_all",
+      "verification": "search_result"
+    }
+  ]
+}

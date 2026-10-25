@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>X scout: AI building raw posts</title>
+    <link>https://x.com</link>
+    <description>Raw public English X posts (search results, unverified, author claims are self-reported) about non-technical/marketing people building with AI, and AI agents / vibe coding / automation build lessons.</description>
+    <language>en</language>
+    <lastBuildDate>Sun, 25 Oct 2026 22:14:00 GMT</lastBuildDate>
+    <item>
+      <title>@Shyamal890: SaaS is in for a rough ride. We've already lost 5 customers to vibe-coded altern…</title>
+      <link>https://x.com/Shyamal890/status/2113631758659031291</link>
+      <guid isPermaLink="false">2113631758659031291</guid>
+      <description>SaaS is in for a rough ride.
+
+We've already lost 5 customers to vibe-coded alternatives.
+
+But 2 experiences made me rethink how big this disruption will be.
+
+1. One customer built her own software using AI.
+
+Then tasks and comments started disappearing.
+
+She realized she couldn't risk running her business on unreliable software and switched back to SmartTask.
+
+2. Another customer let me explore their Claude Code-built alternative.
+
+The UI was almost an exact replica of SmartTask. Genuinely impre</description>
+      <pubDate>Fri, 23 Oct 2026 14:00:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>@StanSadokov: ai visibility tools are insanely expensive. promptwatch business costs $579 a mo…</title>
+      <link>https://x.com/StanSadokov/status/2113609323062632891</link>
+      <guid isPermaLink="false">2113609323062632891</guid>
+      <description>ai visibility tools are insanely expensive.
+
+promptwatch business costs $579 a month and stops at 350 prompts. peec ai advanced costs $495 for the same 350.
+
+at enterprise volume, the price can easily reach $10,000 to $100,000.
+
+we wanted to see which brands chatgpt and gemini recommend when people ask about proxies, across hundreds of prompts and different countries.
+
+our @nodemaven GEO API could already collect those answers through real browsers on our proxies, with a choice of countries and </description>
+      <pubDate>Fri, 23 Oct 2026 12:31:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>@felipediazc76: I built a SaaS solo, side by side with an AI agent: a Claude API assistant with…</title>
+      <link>https://x.com/felipediazc76/status/2112918969711829399</link>
+      <guid isPermaLink="false">2112918969711829399</guid>
+      <description>I built a SaaS solo, side by side with an AI agent: a Claude API assistant with real guardrails, 70+ tutorial videos generated with code, and e2e tests that found bugs no unit test caught. What I learned 👇
+https://t.co/SsbhArYGkx
+#Java #AI #BuildInPublic</description>
+      <pubDate>Wed, 21 Oct 2026 14:48:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>@mhdsas: Most RAG demos answer questions. The hard part inside a real company is answerin…</title>
+      <link>https://x.com/mhdsas/status/2112464818632593888</link>
+      <guid isPermaLink="false">2112464818632593888</guid>
+      <description>Most RAG demos answer questions.
+
+The hard part inside a real company is answering them for the right person.
+
+So I built an AI agent that decides refund requests, where permissions are enforced by the database, not the prompt.
+
+A thread on what I learned, part 1 of 8 🧵 https://t.co/vNPv9MAcRX</description>
+      <pubDate>Tue, 20 Oct 2026 08:43:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>@donnfelker: We have many non-engineers shipping code to many of our systems with the help of…</title>
+      <link>https://x.com/donnfelker/status/2112257140262146433</link>
+      <guid isPermaLink="false">2112257140262146433</guid>
+      <description>We have many non-engineers shipping code to many of our systems with the help of well configured AI Agent harnesses ... all through Slack. 
+
+This is how we did it ... https://t.co/dxzGOCONKp</description>
+      <pubDate>Mon, 19 Oct 2026 18:58:40 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
