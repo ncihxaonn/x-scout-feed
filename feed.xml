@@ -5,7 +5,34 @@
     <link>https://x.com</link>
     <description>Raw public English X posts (search results, unverified, author claims are self-reported) about recent AI model/product/API releases, agent and dev-tool capabilities, multimodal progress, papers, open-source demos, and AI failures, limits, security issues and controversies. Small search sample: not a trending list; allegations are unverified leads.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Oct 2026 20:56:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 20:54:13 GMT</lastBuildDate>
+    <item>
+      <title>@GitGem: @deepseek_ai just unveiled its "Super-agent" architecture + an MIT open-source p…</title>
+      <link>https://x.com/GitGem/status/2116583616734216373</link>
+      <guid isPermaLink="false">2116583616734216373</guid>
+      <description>@deepseek_ai just unveiled its "Super-agent" architecture + an MIT open-source prototype! Two-layer Router/Worker sessions, speculative bug fixing, and 2x faster p95 multi-task completion (15.7m vs 29.5m). Full breakdown via @GitGem #AIAgents #AI https://t.co/Yg0txW7Gfs</description>
+      <pubDate>Sat, 31 Oct 2026 17:30:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>@Kai_AIAUTO: Klarna's AI support launch is a useful case study for anyone automating customer…</title>
+      <link>https://x.com/Kai_AIAUTO/status/2116560718074171520</link>
+      <guid isPermaLink="false">2116560718074171520</guid>
+      <description>Klarna's AI support launch is a useful case study for anyone automating customer service.
+
+In its first month, the company reported 2.3 million conversations, roughly two-thirds of support chats, work it compared with 700 agents, and average resolution time falling from 11</description>
+      <pubDate>Sat, 31 Oct 2026 15:59:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>@atul7107: An AI agent can pass the tests while weakening the safeguards around its work. T…</title>
+      <link>https://x.com/atul7107/status/2116551198123692296</link>
+      <guid isPermaLink="false">2116551198123692296</guid>
+      <description>An AI agent can pass the tests while weakening the safeguards around its work.
+
+The boundary to check: can it edit the monitor, approval gate or audit policy supervising it?
+
+I wrote a practical framework for keeping that authority separate. https://t.co/N7VHQKkvJj</description>
+      <pubDate>Sat, 31 Oct 2026 15:21:43 GMT</pubDate>
+    </item>
     <item>
       <title>@robrt_mill: I built my company's AI agent like an org chart: 23 subagents in 5 departments,…</title>
       <link>https://x.com/robrt_mill/status/2116219751127265453</link>
