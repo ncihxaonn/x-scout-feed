@@ -5,7 +5,150 @@
     <link>https://x.com</link>
     <description>Raw public English X posts (search results, unverified, author claims are self-reported) about recent AI model/product/API releases, agent and dev-tool capabilities, multimodal progress, papers, open-source demos, and AI failures, limits, security issues and controversies. Small search sample: not a trending list; allegations are unverified leads.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 31 Oct 2026 20:54:13 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 20:47:00 GMT</lastBuildDate>
+    <item>
+      <title>@onlinegrowthguy: At the end of the reviewed Monitorred history, the clearest status was the stop:…</title>
+      <link>https://x.com/onlinegrowthguy/status/2116988594871300384</link>
+      <guid isPermaLink="false">2116988594871300384</guid>
+      <description>At the end of the reviewed Monitorred history, the clearest status was the stop: a preserved checkpoint, seven automations recorded as paused and an acknowledgment that no task workers were active. The full launch was still unfinished. What made the stop useful was its specificity. Earlier in the same project, words such as parallel, running and paused had often needed another conversation before I could understand the state they described.
+
+I asked the Codex assistant to advance independent Mon</description>
+      <pubDate>Sun, 01 Nov 2026 20:19:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>@0xSubarru: THIS AI AGENT SAID "TASK COMPLETE." THEN THE HARNESS EXPOSED EVERYTHING IT GOT W…</title>
+      <link>https://x.com/0xSubarru/status/2116947421385408778</link>
+      <guid isPermaLink="false">2116947421385408778</guid>
+      <description>THIS AI AGENT SAID "TASK COMPLETE." THEN THE HARNESS EXPOSED EVERYTHING IT GOT WRONG.
+
+4 failed tests. Unrelated files modified. Zero verification.
+
+That's f*cking insane...
+
+Watch what happens when the same agent gets a proper engineering harness.
+
+Claude receives a clear task, fixes the code, runs real tests, and checks the results before claiming success.
+
+When a tool repeatedly fails, the circuit breaker stops execution instead of wasting more tokens.
+
+The terminal demonstrates the same prin</description>
+      <pubDate>Sun, 01 Nov 2026 17:36:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>@alex_buildsx: Day 1 of building in public. ⚡ Stack: • Full-stack dev • AI workflows &amp;amp; auto…</title>
+      <link>https://x.com/alex_buildsx/status/2116931956571336857</link>
+      <guid isPermaLink="false">2116931956571336857</guid>
+      <description>Day 1 of building in public. ⚡
+
+Stack:
+• Full-stack dev
+• AI workflows &amp;amp; automation
+• Open-source tools
+
+Sharing real workflows, tool stacks, and lessons from building solo.
+
+Let's ship. 👇</description>
+      <pubDate>Sun, 01 Nov 2026 16:34:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>@operatranscend: Daily Insights #185 — A Hundred Thousand Won and Nothing I Could Touch Someone h…</title>
+      <link>https://x.com/operatranscend/status/2116909480676045138</link>
+      <guid isPermaLink="false">2116909480676045138</guid>
+      <description>Daily Insights #185 — A Hundred Thousand Won and Nothing I Could Touch
+
+Someone handed a language model a hundred thousand won and seventeen days. It came back with forty-nine thousand nine hundred and twenty, three cancelled orders, and something the experiment was not designed to test: the thinking was never the part that had to be carried.
+
+[The Plan Needed No Revision]
+
+The plan was correct on the first morning and never needed a second draft. Buy low in the used market, write a better listi</description>
+      <pubDate>Sun, 01 Nov 2026 15:05:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>@Layton_Gott: I've already read this three times today no exaggeration, it's one of the most v…</title>
+      <link>https://x.com/Layton_Gott/status/2116903774627201507</link>
+      <guid isPermaLink="false">2116903774627201507</guid>
+      <description>I've already read this three times today
+
+no exaggeration, it's one of the most valuable articles I've read on building agents
+
+this is how DeepSeek runs their fully autonomous AI agent setup, and you can apply almost all of it to your own
+
+their starting point is that the bottleneck has moved, in their words "a single task is limited by model capability, but multi-tasking is limited by human attention", and they say a person can usually follow only 3 to 5 active sessions at once
+
+so this is wha</description>
+      <pubDate>Sun, 01 Nov 2026 14:42:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>@Ronald0031: In this article, I explain what NVIDIA announced and which questions you should…</title>
+      <link>https://x.com/Ronald0031/status/2116883879185244381</link>
+      <guid isPermaLink="false">2116883879185244381</guid>
+      <description>In this article, I explain what NVIDIA announced and which questions you should ask before you start. What access does the AI agent in your organization have.
+#AIagents #NVIDIA #DGXSpark #Cybersecurity #InformationSecurity #Entrepreneurship #GDPR #EUAIAct https://t.co/SChsh9fbIJ</description>
+      <pubDate>Sun, 01 Nov 2026 13:23:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>@UpHonestReal: 🧬 WHAT IF THE NEXT TRILLION-DOLLAR TECHNOLOGY CATEGORY ISN'T ARTIFICIAL INTELLIG…</title>
+      <link>https://x.com/UpHonestReal/status/2116880997136339420</link>
+      <guid isPermaLink="false">2116880997136339420</guid>
+      <description>🧬 WHAT IF THE NEXT TRILLION-DOLLAR TECHNOLOGY CATEGORY ISN'T ARTIFICIAL INTELLIGENCE?
+
+WHAT IF IT'S EVOLUTION ITSELF?
+
+For centuries, evolution has been something humanity observes.
+
+Biological evolution.
+
+Technological evolution.
+
+Industrial evolution.
+
+Economic evolution.
+
+Human evolution.
+
+We study how systems change.
+
+We analyze what survives.
+
+We attempt to predict what comes next.
+
+But something extraordinary is happening.
+
+Artificial intelligence is beginning to change the speed at which </description>
+      <pubDate>Sun, 01 Nov 2026 13:12:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>@OwenGregorian: A computer science grad called the job market a 'bloodbath.' Now she has good ne…</title>
+      <link>https://x.com/OwenGregorian/status/2116876247732998561</link>
+      <guid isPermaLink="false">2116876247732998561</guid>
+      <description>A computer science grad called the job market a 'bloodbath.' Now she has good news. | Alistair Barr, Business Insider
+
+I've got some happy news to share this week. It involves a young computer science graduate named Kiran Maya Sheikh, who has taught me a lot about grit, determination, and the realities of finding a job in the age of AI.
+
+Back in February, I wrote a newsletter arguing that people shouldn't panic about AI destroying tech jobs.
+
+Kiran, who had recently graduated from the University</description>
+      <pubDate>Sun, 01 Nov 2026 12:53:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>@zonementale: I'm not a developer. But working with technical teams taught me one important le…</title>
+      <link>https://x.com/zonementale/status/2116841144969564162</link>
+      <guid isPermaLink="false">2116841144969564162</guid>
+      <description>I'm not a developer.
+
+But working with technical teams taught me one important lesson:
+
+Just because AI can build your product doesn't mean your product is ready to launch.
+
+Today, vibe coding allows almost anyone to build an app or SaaS in a weekend.
+
+But before launching, here are 10 things every non-technical founder should check:
+
+Security: Are your users' data and passwords actually protected?
+
+Open source: Are you using open-source libraries or AI models? Have you checked their licenses, m</description>
+      <pubDate>Sun, 01 Nov 2026 10:33:52 GMT</pubDate>
+    </item>
     <item>
       <title>@GitGem: @deepseek_ai just unveiled its "Super-agent" architecture + an MIT open-source p…</title>
       <link>https://x.com/GitGem/status/2116583616734216373</link>
