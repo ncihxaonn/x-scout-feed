@@ -5,7 +5,114 @@
     <link>https://x.com</link>
     <description>Raw public English X posts (search results, unverified, author claims are self-reported) about recent AI model/product/API releases, agent and dev-tool capabilities, multimodal progress, papers, open-source demos, and AI failures, limits, security issues and controversies. Small search sample: not a trending list; allegations are unverified leads.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Nov 2026 20:47:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 20:46:30 GMT</lastBuildDate>
+    <item>
+      <title>@realFatCat1: Statistics Statistics - What the future brings and my attempt to solve trading f…</title>
+      <link>https://x.com/realFatCat1/status/2117326912070578184</link>
+      <guid isPermaLink="false">2117326912070578184</guid>
+      <description>Statistics Statistics - What the future brings and my attempt to solve trading failure
+
+First a bit of an update. Some announcements that then evolve into the meat and potatoes. 
+
+Taking some time off this week to work on Both https://t.co/VNVPpVxH9e and https://t.co/9d6VzTJtMI
+
+Have a bunch of course modules filmed and currently in the editing phase. 
+
+Still need to film much more.
+
+Getting up some episodes from last week as well.
+
+---
+Let's talk about a major overhaul on https://t.co/VNVPpVxH9</description>
+      <pubDate>Mon, 02 Nov 2026 18:44:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>@Diptish09: Your AI agent fixed this bug yesterday. Today, another agent makes the same mist…</title>
+      <link>https://x.com/Diptish09/status/2117311758415339776</link>
+      <guid isPermaLink="false">2117311758415339776</guid>
+      <description>Your AI agent fixed this bug yesterday.
+Today, another agent makes the same mistake.
+
+Maybe the problem isn't always model intelligence. It's memory.
+
+@EntelligenceAI is building shared memory for coding agents, connecting past sessions, PRs, tickets and incidents.
+
+So agents can learn from what the team has already figured out.
+
+Teams see 53% fewer repeat errors.
+
+Agents should build on past lessons, not repeat them.</description>
+      <pubDate>Mon, 02 Nov 2026 17:43:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>@shirshagh: @deepseek_ai has open-sourced a research prototype called dsh-superagent. It's d…</title>
+      <link>https://x.com/shirshagh/status/2117305221760336240</link>
+      <guid isPermaLink="false">2117305221760336240</guid>
+      <description>@deepseek_ai has open-sourced a research prototype called dsh-superagent.
+
+It's designed to respond to authorized GitHub requests, manage work in separate sessions, and return useful results.
+
+But the most interesting part isn't the orchestration.
+
+It's the philosophy.
+
+The agent should consume as little human attention as possible.
+
+Think about that.
+
+Most AI agent demos celebrate activity.
+
+Look at the agent thinking.
+
+Look at the browser opening.
+
+Look at the terminal executing commands.
+
+Loo</description>
+      <pubDate>Mon, 02 Nov 2026 17:17:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>@jsfranklin221: The recent discourse on agentic commerce on x led by @vigstar1 is really nice (i…</title>
+      <link>https://x.com/jsfranklin221/status/2117287190929486285</link>
+      <guid isPermaLink="false">2117287190929486285</guid>
+      <description>The recent discourse on agentic commerce on x led by @vigstar1 is really nice (instead of just funding announcements). 
+
+But there’s a lot of it, so I asked @bot to grab relevant posts from @scottew @vigstar1 @alfongj @RonakDaya @regulatorynerd @soupsranjan @sophgoldb @amandapey @davistrazza @mttjon @heysamir_ and @noyesclt and turn it into a podcast episode: 
+https://t.co/TsDwyvFiPd
+
+Summary:
+Core problem: when an AI agent buys something for you, the payment can go through and still be wrong. Y</description>
+      <pubDate>Mon, 02 Nov 2026 16:06:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>@Nextar_X: Demand for basic AI skills in job postings peaked in January 2026, then fell 25%…</title>
+      <link>https://x.com/Nextar_X/status/2117275010050207804</link>
+      <guid isPermaLink="false">2117275010050207804</guid>
+      <description>Demand for basic AI skills in job postings peaked in January 2026, then fell 25%.
+Demand for hands-on AI building skills rose 51% over roughly the same stretch.
+
+The prompting course many companies rolled out last year is already losing market value. The skill employers now want takes longer to teach, and companies are asking for less of the people who would teach it.
+
+I read four sets of 2026 workforce numbers this month. Together they describe a skills gap that has moved inside the company.
+
+1</description>
+      <pubDate>Mon, 02 Nov 2026 15:17:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>@amitmuflis: CLAUDE JUST DESTROYING ITS OWN BIGGEST ADVANTAGE — TWO SENTENCES AT A TIME REVER…</title>
+      <link>https://x.com/amitmuflis/status/2117269867774820731</link>
+      <guid isPermaLink="false">2117269867774820731</guid>
+      <description>CLAUDE JUST  DESTROYING ITS OWN BIGGEST ADVANTAGE — TWO SENTENCES AT A TIME
+
+REVERSE ENGINEERING SKILL DENIED
+
+Two sentences.
+
+That may be all it took to change the relationship between Claude Code and the developers who pay to use it.
+
+Anthropic has confirmed that it added two sentences to Claude Code’s instructions to discourage the model from recreating specific existing games. The company’s stated intention appears relatively narrow: Claude should still be able to help developers create orig</description>
+      <pubDate>Mon, 02 Nov 2026 14:57:28 GMT</pubDate>
+    </item>
     <item>
       <title>@onlinegrowthguy: At the end of the reviewed Monitorred history, the clearest status was the stop:…</title>
       <link>https://x.com/onlinegrowthguy/status/2116988594871300384</link>
