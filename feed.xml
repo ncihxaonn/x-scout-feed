@@ -5,7 +5,153 @@
     <link>https://x.com</link>
     <description>Raw public English X posts (search results, unverified, author claims are self-reported) about recent AI model/product/API releases, agent and dev-tool capabilities, multimodal progress, papers, open-source demos, and AI failures, limits, security issues and controversies. Small search sample: not a trending list; allegations are unverified leads.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Nov 2026 20:46:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 20:51:49 GMT</lastBuildDate>
+    <item>
+      <title>@lewang_teraliq: FORGET GOING VIRAL. FIND 10 PEOPLE WITH A PROBLEM WORTH PAYING TO SOLVE. You don…</title>
+      <link>https://x.com/lewang_teraliq/status/2117713616921362657</link>
+      <guid isPermaLink="false">2117713616921362657</guid>
+      <description>FORGET GOING VIRAL. FIND 10 PEOPLE WITH A PROBLEM WORTH PAYING TO SOLVE.
+
+You don't need a million followers to make money online. You need a problem that someone is already willing to pay you to fix.
+
+I've been thinking about a question that I believe more people should be asking.
+
+In the age of AI, creating things has become dramatically easier.
+
+You can build a website, develop a small application, automate a business workflow, produce marketing content, analyze data and launch a service with</description>
+      <pubDate>Tue, 03 Nov 2026 20:20:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>@MaryamMiradi: 🛠️🧭 I went down the AI Agent evaluation rabbit hole. If you are building AI Agen…</title>
+      <link>https://x.com/MaryamMiradi/status/2117705850634858986</link>
+      <guid isPermaLink="false">2117705850634858986</guid>
+      <description>🛠️🧭 I went down the AI Agent evaluation rabbit hole.
+
+If you are building AI Agents for production, you have to evaluate much more than the final answer:
+
+tool calls, retrieval quality, reasoning paths, failed steps, latency, cost, safety and regressions.
+
+So I went through the open-source ecosystem and pulled together the tools I would actually look at.
+
+Here are 20 AI Agent evaluation tools worth knowing in 2026:
+
+》𝗘𝘃𝗮𝗹 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀
+
+✸ DeepEval → agent evals + trajectories  
+✸ Inspect AI → multi</description>
+      <pubDate>Tue, 03 Nov 2026 19:49:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>@chasing_next: here's the prompt i'm using to carefully cut my grok bot usage ↓ --- Audit my Gr…</title>
+      <link>https://x.com/chasing_next/status/2117697521967681992</link>
+      <guid isPermaLink="false">2117697521967681992</guid>
+      <description>here's the prompt i'm using to carefully cut my grok bot usage ↓
+
+---
+
+Audit my Grok Bot setup for wasted usage. Find what's duplicated, running too often, or not worth what it costs me, and what should move off Grok, without breaking anything that's working. My usage is tight, so keep this audit cheap.
+
+ASK ME FIRST
+Before doing anything else, ask me one question and wait for my answer: "Do you use any other AI plans or tools that could take on some of this work, either logged in here or on the</description>
+      <pubDate>Tue, 03 Nov 2026 19:16:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>@drbartpm: Most teams building an AI agent face the same fork early: make it general-purpos…</title>
+      <link>https://x.com/drbartpm/status/2117685742390669706</link>
+      <guid isPermaLink="false">2117685742390669706</guid>
+      <description>Most teams building an AI agent face the same fork early: make it general-purpose, or make it narrow and specialized. The honest tradeoff looks like this.
+
+A narrow agent, built for one job like triaging support tickets or drafting PR descriptions, is easy to evaluate. You know what good output looks like, so you can measure it and trust it faster.
+
+A general agent that tries to handle anything is impressive in a demo and much harder to trust in production. You cannot write a clean eval for "han</description>
+      <pubDate>Tue, 03 Nov 2026 18:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>@keithrull: Today's biggest AI claims came with fine print. That's where your risk lives. -…</title>
+      <link>https://x.com/keithrull/status/2117665623673282610</link>
+      <guid isPermaLink="false">2117665623673282610</guid>
+      <description>Today's biggest AI claims came with fine print. That's where your risk lives.
+- Astra "edits weights": read the methods
+- Anthropic S-1: RSI may be "imminent"
+- GitBook breached, rotate your tokens
+Agree or disagree? https://t.co/7LLBbDuHhU</description>
+      <pubDate>Tue, 03 Nov 2026 17:10:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>@neuralloot: Claude Opus 4.8 averaged 4,352 GeoGuessr points on real World Championship round…</title>
+      <link>https://x.com/neuralloot/status/2117652678222237912</link>
+      <guid isPermaLink="false">2117652678222237912</guid>
+      <description>Claude Opus 4.8 averaged 4,352 GeoGuessr points on real World Championship rounds. The human finalists averaged 4,770.
+
+A Berkeley team built GeoGuesser Bench, 282 Street View tasks where an AI agent (a model acting through tools) can only look around and step to the next panorama, a single 360 degree photo spot. No map and no web search. 23 vision models took it.
+
+In distance terms that score means about 207 km off. The pros come out near 70 km, using the better player each round.
+
+Then the tea</description>
+      <pubDate>Tue, 03 Nov 2026 16:18:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>@PyroHgen: Perfectly Understood. Completely Unheard. My Meta accounts were stolen while I w…</title>
+      <link>https://x.com/PyroHgen/status/2117641536674628018</link>
+      <guid isPermaLink="false">2117641536674628018</guid>
+      <description>Perfectly Understood. Completely Unheard.
+
+My Meta accounts were stolen while I was at sea. What I found when I came back is the future — and it has no mailbox.
+
+Somewhere in the world right now, a stranger is me. He has my name, my face, my photographs, and the Facebook history of my entire adult life. He took them while I was at sea. And the company that let him do it has no address where I can tell them so.
+
+That last sentence is the story. Everything before it is just the setup.
+
+Let me say </description>
+      <pubDate>Tue, 03 Nov 2026 15:34:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>@om_patel5: 28 DAYS. THAT'S HOW LONG UNTIL GUMMYSEARCH SHUTS OFF AND DELETES EVERY ACCOUNT.…</title>
+      <link>https://x.com/om_patel5/status/2117635757586120771</link>
+      <guid isPermaLink="false">2117635757586120771</guid>
+      <description>28 DAYS. THAT'S HOW LONG UNTIL GUMMYSEARCH SHUTS OFF AND DELETES EVERY ACCOUNT.
+
+135,000+ people used it to find what people complain about on reddit. it's closing because it couldn't get a commercial licence for reddit's data api. sign-ups stopped a year ago.
+
+easy to read that as "reddit research is over." the numbers say the opposite.
+
+- posts. reddit had 447M+ posts in the first 10 months of 2026. that's already more than all of 2025 (430M+).
+- searches. google interest in "gummysearch" is d</description>
+      <pubDate>Tue, 03 Nov 2026 15:11:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>@Magnosud: 🏦 Goldman Sachs let traders vibe code for months. Now Claude Code is engineers o…</title>
+      <link>https://x.com/Magnosud/status/2117595760627728494</link>
+      <guid isPermaLink="false">2117595760627728494</guid>
+      <description>🏦 Goldman Sachs let traders vibe code for months. Now Claude Code is engineers only
+
+Honest question for builders: should someone who can't read code ship tools that touch real money? 👇
+
+📰 What happened
+• According to Bloomberg, internal guidance Goldman updated in October limits Anthropic's Claude Code and Microsoft's GitHub to engineers
+• Most traders and bankers lost access. "Strats", who mix software engineering, quant research and trading, keep it
+• Traders had used the tools to follow clie</description>
+      <pubDate>Tue, 03 Nov 2026 12:32:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>@shivamA2k: The most dangerous thing about vibe coding is that it works. We built a marketpl…</title>
+      <link>https://x.com/shivamA2k/status/2117562849522507959</link>
+      <guid isPermaLink="false">2117562849522507959</guid>
+      <description>The most dangerous thing about vibe coding is that it works.
+
+We built a marketplace processing A$100K+ in monthly bookings with AI.
+
+And a year later, the code was becoming one of the biggest things slowing our business down.
+
+Here's what happened.
+
+We're 4 founders at LicenceMate. All software engineers by background.
+
+But we realised pretty early that our business is mostly about getting customers, making good offers and keeping people happy.
+
+So only one of us actually works on the code day </description>
+      <pubDate>Tue, 03 Nov 2026 10:21:40 GMT</pubDate>
+    </item>
     <item>
       <title>@realFatCat1: Statistics Statistics - What the future brings and my attempt to solve trading f…</title>
       <link>https://x.com/realFatCat1/status/2117326912070578184</link>
