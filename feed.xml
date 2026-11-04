@@ -5,7 +5,53 @@
     <link>https://x.com</link>
     <description>Raw public English X posts (search results, unverified, author claims are self-reported) about recent AI model/product/API releases, agent and dev-tool capabilities, multimodal progress, papers, open-source demos, and AI failures, limits, security issues and controversies. Small search sample: not a trending list; allegations are unverified leads.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Nov 2026 20:51:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 20:54:35 GMT</lastBuildDate>
+    <item>
+      <title>@mazinmagdii: Learn AI Engineering by building real things. Explore Python, LLMs, RAG, AI Agen…</title>
+      <link>https://x.com/mazinmagdii/status/2118008048774230303</link>
+      <guid isPermaLink="false">2118008048774230303</guid>
+      <description>Learn AI Engineering by building real things.
+
+Explore Python, LLMs, RAG, AI Agents, MCP, and more with interactive lessons and hands-on labs.
+
+New: Vibe Coding!
+
+First 5 lessons free.
+
+Lifetime: $69 | Yearly: $49 | Monthly: $9
+https://t.co/8BmNuqMcQA https://t.co/Hd4cCWywia</description>
+      <pubDate>Wed, 04 Nov 2026 15:50:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>@FanofAITech: I'm sure that 90% people are just vibe coding on Claude Code Only 10% of people…</title>
+      <link>https://x.com/FanofAITech/status/2117963378463535144</link>
+      <guid isPermaLink="false">2117963378463535144</guid>
+      <description>I'm sure that 90% people are just vibe coding on Claude Code 
+
+Only 10% of people on this planet uses Claude code very constructively 
+
+Here is the list of task that that 10% people stick on to
+
+↓↓
+
+Those tasks are ranked from toughest to easiest
+
+The ranking is my own judgment of setup effort and skill needed
+
+The list is focused on features most users never touch.
+
+1: Dynamic workflows - these are like hiring a whole audit team instead of one person. Claude writes a script that sends dozens or</description>
+      <pubDate>Wed, 04 Nov 2026 12:53:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>@stretchcloud: Five megabytes. That's the installer size for Mercury Desktop, an open source AI…</title>
+      <link>https://x.com/stretchcloud/status/2117812074680389690</link>
+      <guid isPermaLink="false">2117812074680389690</guid>
+      <description>Five megabytes. That's the installer size for Mercury Desktop, an open source AI agent app that shipped this week for macOS, Windows, and Linux, built on Tauri instead of Electron. Compare that to a typical AI chat desktop app, which bundles an entire Chromium instance and routinely lands between 150 and 300MB, then forgets every bit of context the moment you close it.
+
+The size gap isn't cosmetic. Tauri wraps the operating system's own webview instead of shipping Chromium inside every install, </description>
+      <pubDate>Wed, 04 Nov 2026 02:52:00 GMT</pubDate>
+    </item>
     <item>
       <title>@lewang_teraliq: FORGET GOING VIRAL. FIND 10 PEOPLE WITH A PROBLEM WORTH PAYING TO SOLVE. You don…</title>
       <link>https://x.com/lewang_teraliq/status/2117713616921362657</link>
@@ -132,6 +178,29 @@ Honest question for builders: should someone who can't read code ship tools that
 • Most traders and bankers lost access. "Strats", who mix software engineering, quant research and trading, keep it
 • Traders had used the tools to follow clie</description>
       <pubDate>Tue, 03 Nov 2026 12:32:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>@samruddhi_mokal: Six evenings of office hours with the Outskill cohort. No script. Whatever the r…</title>
+      <link>https://x.com/samruddhi_mokal/status/2117591384853238177</link>
+      <guid isPermaLink="false">2117591384853238177</guid>
+      <description>Six evenings of office hours with the Outskill cohort. No script.
+
+Whatever the room upvoted, I answered it live.
+
+Voice agents. n8n in production. APIs. RAG. Claude in the browser. Vibe coding.
+
+The tool questions were the easy part.
+
+These three stayed with me:
+
+1. "People don't trust entering company data in your AI product."
+
+Trust is an architecture decision. Keep the system on their servers, and the objection changes.
+
+2. How do I stop forgetting what I learned?
+
+Stop collecting. Pick one </description>
+      <pubDate>Tue, 03 Nov 2026 12:15:03 GMT</pubDate>
     </item>
     <item>
       <title>@shivamA2k: The most dangerous thing about vibe coding is that it works. We built a marketpl…</title>
