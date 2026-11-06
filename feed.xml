@@ -5,7 +5,161 @@
     <link>https://x.com</link>
     <description>Raw public English X posts (search results, unverified, author claims are self-reported) about recent AI model/product/API releases, agent and dev-tool capabilities, multimodal progress, papers, open-source demos, and AI failures, limits, security issues and controversies. Small search sample: not a trending list; allegations are unverified leads.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Nov 2026 20:54:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 20:51:50 GMT</lastBuildDate>
+    <item>
+      <title>@tirthaexe: Supabase scored 2% in an AI agent usability benchmark while Prisma Postgres got…</title>
+      <link>https://x.com/tirthaexe/status/2118801529188786258</link>
+      <guid isPermaLink="false">2118801529188786258</guid>
+      <description>Supabase scored 2% in an AI agent usability benchmark while Prisma Postgres got 88%.
+
+That's quite a difference, especially considering how popular both are with developers.
+
+Scope is benchmarking how effectively AI agents can complete real tasks across 18 database and backend products.
+
+A few early results:
+
+- Prisma Postgres: 88%
+- Upstash: 63%
+- Neon: 43%
+- MongoDB Atlas: 3%
+- Supabase: 2%
+
+Now, I wouldn't use these numbers to decide which database is better. I'd want to see the exact tasks, </description>
+      <pubDate>Fri, 06 Nov 2026 20:23:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>@amyboiss: Three things I learned building an AI agent for creators during a 10-day hackath…</title>
+      <link>https://x.com/amyboiss/status/2118794127538323794</link>
+      <guid isPermaLink="false">2118794127538323794</guid>
+      <description>Three things I learned building an AI agent for creators during a 10-day hackathon, including what broke.
+
+Billing can stop everything. For days, every Meta Muse call returned “402 Payment Required.” The app fell back to Claude, so it still worked. Now I treat “payment required” as an outage.
+
+Fallbacks are part of the product. When a model goes down, does the user get a blank screen or a clear message? I now design for the message.
+
+Honest labels build trust. The comment-reply loop predates the</description>
+      <pubDate>Fri, 06 Nov 2026 19:54:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>@shadowmint07: Want to Use AI Agents Without Touching the Terminal? Meet BAIclaw. 🦞 AI agents s…</title>
+      <link>https://x.com/shadowmint07/status/2118709181352227229</link>
+      <guid isPermaLink="false">2118709181352227229</guid>
+      <description>Want to Use AI Agents Without Touching the Terminal? Meet BAIclaw. 🦞
+
+AI agents sound exciting.
+
+You can ask them to complete tasks, interact with tools, and help manage repetitive workflows.
+
+But there's a problem.
+
+Many agent frameworks can be difficult for ordinary users to configure.
+
+Command-line instructions, configuration files, API keys, and technical dependencies can quickly become overwhelming.
+
+BAIclaw is trying to make that experience more accessible.
+
+According to https://t.co/dc1WC</description>
+      <pubDate>Fri, 06 Nov 2026 14:16:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>@shadowmint07: Building an AI Agent That Manages API Credits? Start With the Documentation. 🛠️…</title>
+      <link>https://x.com/shadowmint07/status/2118709049051275749</link>
+      <guid isPermaLink="false">2118709049051275749</guid>
+      <description>Building an AI Agent That Manages API Credits? Start With the Documentation. 🛠️
+
+There's a big difference between using an AI chatbot and building an AI application that runs every day.
+
+When you're chatting with a model, you usually don't need to think much about infrastructure.
+
+You send a message.
+
+You receive a response.
+
+But when you're developing automated workflows, things become more complicated.
+
+You need to manage API requests, usage costs, authentication, errors, and sometimes account</description>
+      <pubDate>Fri, 06 Nov 2026 14:16:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>[kimi-k3.1-pro] @sentient_found: Kimi K3.1 Pro ranks just behind Opus 5.5 &amp;amp; GPT-6 Astra at a lower cost, @liq…</title>
+      <link>https://x.com/sentient_found/status/2118704967272050980</link>
+      <guid isPermaLink="false">2118704967272050980</guid>
+      <description>Kimi K3.1 Pro ranks just behind Opus 5.5 &amp;amp; GPT-6 Astra at a lower cost, @liquidai ships a new model built for on-device AI, and @ArtificialAnlys finds open weights are only 2 months behind closed models. https://t.co/UZehbQkjGC</description>
+      <pubDate>Fri, 06 Nov 2026 14:00:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>@Dalat_Ventures: BAIclaw: Making AI Agents More Accessible Without Requiring Command-Line Experti…</title>
+      <link>https://x.com/Dalat_Ventures/status/2118696286010610075</link>
+      <guid isPermaLink="false">2118696286010610075</guid>
+      <description>BAIclaw: Making AI Agents More Accessible Without Requiring Command-Line Expertise
+
+AI agents are attracting attention because they can help users coordinate multi-step workflows rather than simply generate individual responses.
+
+However, configuring agent software can be challenging for people who are unfamiliar with command-line tools, environment settings, and technical dependencies.
+
+BAIclaw addresses this accessibility problem through a graphical macOS application built on top of OpenClaw.
+</description>
+      <pubDate>Fri, 06 Nov 2026 13:25:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>@read__the__diff: Hey builders 👋 Trying to meet more people who care about: 🍎 Product: product-led…</title>
+      <link>https://x.com/read__the__diff/status/2118692692326592727</link>
+      <guid isPermaLink="false">2118692692326592727</guid>
+      <description>Hey builders 👋
+
+Trying to meet more people who care about:
+
+🍎 Product: product-led growth
+🤖 AI agents &amp; MCP: agents that do real work
+🛠️ Dev tools: build fast without cutting corners
+📈 SaaS: profitable from day one
+
+I share what I learn building my side projects. Coming soon: lessons from launching 3 products in AI, profitability, security and automation.
+
+Say hi below 👋 and let's grow together.</description>
+      <pubDate>Fri, 06 Nov 2026 13:11:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>@tomdrawneth: 💻 BAIclaw: Making AI Agents Easier Without Giving Up User Control The future of…</title>
+      <link>https://x.com/tomdrawneth/status/2118646502503715105</link>
+      <guid isPermaLink="false">2118646502503715105</guid>
+      <description>💻 BAIclaw: Making AI Agents Easier Without Giving Up User Control
+
+The future of AI agents isn't just about making automation smarter. It's also about giving users more control over their tools, data, models, and spending.
+
+BAIclaw brings several practical features together: a free macOS application, graphical configuration, local data storage, and access to multiple AI models through https://t.co/YN97ObZUCN.
+
+Here are five things worth highlighting:
+
+🖥️ Easy Setup: Built on OpenClaw, BAIclaw re</description>
+      <pubDate>Fri, 06 Nov 2026 10:07:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>@yabarich: 🤖 BAIclaw: Why Making AI Agents Accessible Matters More Than Adding More Technic…</title>
+      <link>https://x.com/yabarich/status/2118609888746377715</link>
+      <guid isPermaLink="false">2118609888746377715</guid>
+      <description>🤖 BAIclaw: Why Making AI Agents Accessible Matters More Than Adding More Technical Complexity
+
+Artificial intelligence is becoming increasingly powerful, but one major barrier remains: the gap between what AI agents can accomplish and how easily everyday users can actually use them.
+
+Advanced AI agents can help automate workflows, process information, and interact with external tools. However, configuring these systems often requires command-line operations, technical knowledge, and familiarity </description>
+      <pubDate>Fri, 06 Nov 2026 07:42:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>[ai-digest-2026w45] @michaelnemtsev: AI Field Notes #132 OpenAI just bought Codex its own Git backend and hired the p…</title>
+      <link>https://x.com/michaelnemtsev/status/2118526635959853229</link>
+      <guid isPermaLink="false">2118526635959853229</guid>
+      <description>AI Field Notes #132
+
+OpenAI just bought Codex its own Git backend and hired the person who ran product for Claude Code.
+
+- Pierre's Code Storage, already behind Lovable and Bolt, folds into Codex
+- Cat Wu leaves Anthropic; Brockman says OpenAI 'wasn't even in the conversation' on agentic coding
+- Apple cuts engineers' daily AI cap from $300 to $200, with $100 next
+- SemiAnalysis GDPx: the best agent meets 12% of real professional work
+- GPT-6 Astra did 40% less on safety research tasks, and Open</description>
+      <pubDate>Fri, 06 Nov 2026 02:11:24 GMT</pubDate>
+    </item>
     <item>
       <title>@MaryamMiradi: 🛠️🧭 I went down the AI Agent observability rabbit hole. If you are building AI A…</title>
       <link>https://x.com/MaryamMiradi/status/2118434792014262477</link>
