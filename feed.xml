@@ -5,7 +5,49 @@
     <link>https://x.com</link>
     <description>Raw public English X posts (search results, unverified, author claims are self-reported) about recent AI model/product/API releases, agent and dev-tool capabilities, multimodal progress, papers, open-source demos, and AI failures, limits, security issues and controversies. Small search sample: not a trending list; allegations are unverified leads.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Nov 2026 20:55:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 20:49:41 GMT</lastBuildDate>
+    <item>
+      <title>@PatchOnChain: Developers traded vibe coding for "Spec-Driven Development", assuming markdown P…</title>
+      <link>https://x.com/PatchOnChain/status/2119893902035665331</link>
+      <guid isPermaLink="false">2119893902035665331</guid>
+      <description>Developers traded vibe coding for "Spec-Driven Development", assuming markdown PRDs make LLMs deterministic. 
+
+But English prose is not an AST. 
+
+When specs collide with frozen weights, you get Waterfall 2.0 with hallucinations.
+
+The Spec Mirage: https://t.co/xjErGJtjOC</description>
+      <pubDate>Mon, 09 Nov 2026 20:44:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>@PUNKSQUADcom: 📰 Latest Worldwide AI videos on YouTube ▶️ Watch them all: https://t.co/0oQugnyE…</title>
+      <link>https://x.com/PUNKSQUADcom/status/2119881617439182886</link>
+      <guid isPermaLink="false">2119881617439182886</guid>
+      <description>📰 Latest Worldwide AI videos on YouTube
+▶️ Watch them all: https://t.co/0oQugnyEbK
+
+🆕 NEW VIDEOS
+1. @petergyang - "I Tested Fable 5.2 vs Opus 5.5 on 5 Real Use Cases"
+https://t.co/Bx5Z5YxPHN
+
+2. Luke Byrne (AI Luke) - "Build Weekly Client Reports With Claude + Perceptis"</description>
+      <pubDate>Mon, 09 Nov 2026 19:55:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>@rohit_jsfreaky: I tested 3 ways to give an AI agent a browser, on 19 real websites. The "lighter…</title>
+      <link>https://x.com/rohit_jsfreaky/status/2119859894677635479</link>
+      <guid isPermaLink="false">2119859894677635479</guid>
+      <description>I tested 3 ways to give an AI agent a browser, on 19 real websites. The "lighter" option used more tokens, and most of the cost was doing the same task twice. All the numbers, including where my own tool loses: https://t.co/Y45PQekOAW</description>
+      <pubDate>Mon, 09 Nov 2026 18:29:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>@ServBayDev: GPT-6.1 Terra cuts standard API prices about 50%, but cheap tokens are not cheap…</title>
+      <link>https://x.com/ServBayDev/status/2119806076292096139</link>
+      <guid isPermaLink="false">2119806076292096139</guid>
+      <description>GPT-6.1 Terra cuts standard API prices about 50%, but cheap tokens are not cheap accepted tasks. Compare cost per accepted task with retries, cache hits, and human fix time.
+#gpt #ai #api #ServBay https://t.co/XQcxEGNmqt</description>
+      <pubDate>Mon, 09 Nov 2026 14:55:27 GMT</pubDate>
+    </item>
     <item>
       <title>@realdrovex: 😲IT’S F*CKING INSANE! Your AI agent keeps messing up, and you don’t even know wh…</title>
       <link>https://x.com/realdrovex/status/2119506731726491788</link>
