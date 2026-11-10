@@ -1,16 +1,16 @@
 {
-  "last_run_at": "2026-11-10T04:49:51+08:00",
-  "last_success_at": "2026-11-10T04:49:51+08:00",
+  "last_run_at": "2026-11-11T04:55:24+08:00",
+  "last_success_at": "2026-11-11T04:55:24+08:00",
   "status": "ok",
-  "last_window_start": "2026-11-06T20:55:36Z",
-  "next_window_start": "2026-11-07T20:49:51Z",
+  "last_window_start": "2026-11-07T20:49:51Z",
+  "next_window_start": "2026-11-08T20:55:24Z",
   "queries_executed": 2,
   "queries": [
     "(\"non-technical\" OR \"no coding background\" OR \"marketer\" OR \"non-dev\") (built OR shipped OR building) (\"AI agent\" OR \"vibe coding\" OR \"vibe coded\" OR automation) lang:en -is:retweet -is:reply -giveaway",
     "(\"AI agent\" OR \"vibe coding\" OR \"automation\") (\"what I learned\" OR \"lessons\" OR \"failed\" OR \"broke\" OR \"tradeoff\" OR \"postmortem\") (built OR building) lang:en -is:retweet -is:reply -giveaway"
   ],
-  "returned": 42,
-  "selected": 4,
-  "new": 4,
-  "total": 66
+  "returned": 49,
+  "selected": 7,
+  "new": 7,
+  "total": 73
 }
