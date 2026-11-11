@@ -1,9 +1,9 @@
 {
-  "last_run_at": "2026-11-11T04:55:24+08:00",
-  "last_success_at": "2026-11-11T04:55:24+08:00",
+  "last_run_at": "2026-11-12T04:49:25+08:00",
+  "last_success_at": "2026-11-12T04:49:25+08:00",
   "status": "ok",
-  "last_window_start": "2026-11-07T20:49:51Z",
-  "next_window_start": "2026-11-08T20:55:24Z",
+  "last_window_start": "2026-11-08T20:55:24Z",
+  "next_window_start": "2026-11-09T20:49:25Z",
   "queries_executed": 2,
   "queries": [
     "(\"non-technical\" OR \"no coding background\" OR \"marketer\" OR \"non-dev\") (built OR shipped OR building) (\"AI agent\" OR \"vibe coding\" OR \"vibe coded\" OR automation) lang:en -is:retweet -is:reply -giveaway",
@@ -12,5 +12,5 @@
   "returned": 49,
   "selected": 7,
   "new": 7,
-  "total": 73
+  "total": 80
 }
