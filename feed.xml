@@ -5,7 +5,83 @@
     <link>https://x.com</link>
     <description>Raw public English X posts (search results, unverified, author claims are self-reported) about recent AI model/product/API releases, agent and dev-tool capabilities, multimodal progress, papers, open-source demos, and AI failures, limits, security issues and controversies. Small search sample: not a trending list; allegations are unverified leads.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Nov 2026 20:48:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 20:53:30 GMT</lastBuildDate>
+    <item>
+      <title>@TeksEdge: 🔊New small local model! 🤖 Smaller local models are getting better at tool callin…</title>
+      <link>https://x.com/TeksEdge/status/2120977432065003716</link>
+      <guid isPermaLink="false">2120977432065003716</guid>
+      <description>🔊New small local model!  🤖 Smaller local models are getting better at tool calling and agent tasks.
+
+Basically, your AI agent probably already knows your emails, calendar, messages, and files.
+
+So why shouldn’t it live on your phone?  That is the goal.
+
+Tether released a small, https://t.co/W1EWCsSCAX</description>
+      <pubDate>Thu, 12 Nov 2026 20:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>@NaumanBalochDM: Your AI agent is only as smart as its data. A client's https://t.co/KSz1D5STmY a…</title>
+      <link>https://x.com/NaumanBalochDM/status/2120955133752230243</link>
+      <guid isPermaLink="false">2120955133752230243</guid>
+      <description>Your AI agent is only as smart as its data. A client's https://t.co/KSz1D5STmY automation broke on duplicate records nobody caught. Audit your CRM, field mappings, and timezones before building agentic workflows. Clean data = clean automation.</description>
+      <pubDate>Thu, 12 Nov 2026 19:01:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>@AverageAiBro: Plurai just launched Plurai Simulation, a plugin for your coding agent that test…</title>
+      <link>https://x.com/AverageAiBro/status/2120928862821605401</link>
+      <guid isPermaLink="false">2120928862821605401</guid>
+      <description>Plurai just launched Plurai Simulation, a plugin for your coding agent that tests the AI agent you're building before real customers get to it.
+
+It reads your agent's code and builds a simulated world around it: mocked versions of its tools that share the same state, simulated</description>
+      <pubDate>Thu, 12 Nov 2026 17:17:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>@borja_burgos: Your AI agent failed. Now what? We built https://t.co/zU2j58ncdr to detect failu…</title>
+      <link>https://x.com/borja_burgos/status/2120918588487807145</link>
+      <guid isPermaLink="false">2120918588487807145</guid>
+      <description>Your AI agent failed. Now what?
+
+We built https://t.co/zU2j58ncdr to detect failures in production, give coding agents the context to fix them, and check for regressions.
+
+Check out our @ProductHunt  launch and tell us what you think: 
+https://t.co/gw72o7vhGe</description>
+      <pubDate>Thu, 12 Nov 2026 16:36:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>@chinwegud: Welcome to my corner of X! I'm passionate about technology, creativity and digit…</title>
+      <link>https://x.com/chinwegud/status/2120914721666703469</link>
+      <guid isPermaLink="false">2120914721666703469</guid>
+      <description>Welcome to my corner of X!
+
+I'm passionate about technology, creativity and digital growth.
+
+Here's what I talk about:
+
+- AI &amp;amp; Business Automation
+- CRM &amp;amp; API Integrations
+- Social Media &amp;amp; LinkedIn Growth
+- AI Videos &amp;amp; Animated Storytelling
+📌 Digital Business &amp;amp; Technology
+
+I https://t.co/61nUsjWtAm</description>
+      <pubDate>Thu, 12 Nov 2026 16:20:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>@arnaudmercier: &amp;lt;p class="wp-block-paragraph"&amp;gt;Some disillusionment was inevitable. When Op…</title>
+      <link>https://x.com/arnaudmercier/status/2120907121675976960</link>
+      <guid isPermaLink="false">2120907121675976960</guid>
+      <description>&amp;lt;p class="wp-block-paragraph"&amp;gt;Some disillusionment was inevitable. When OpenAI released a &amp;lt;a href="https://t.co/GnmeQLPq4b"&amp;gt;free web app called ChatGPT&amp;lt;/a&amp;gt; in late 2022, it changed the course of an entire industry—and several world economies. Millions of people started talking to https://t.co/Y5O9tAE7mo</description>
+      <pubDate>Thu, 12 Nov 2026 15:50:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>@bondaicommunity: 🇺🇸 This week across SF, NY, and Seattle: coding agents working as coordinated te…</title>
+      <link>https://x.com/bondaicommunity/status/2120901937570963653</link>
+      <guid isPermaLink="false">2120901937570963653</guid>
+      <description>🇺🇸 This week across SF, NY, and Seattle: coding agents working as coordinated teams inside large companies, how image and video models get benchmarked, governance for agents that browse the web and call tools, and AI for music and video.
+
+Subscribe to your local weekly newsletter https://t.co/DfMmUG1lej</description>
+      <pubDate>Thu, 12 Nov 2026 15:30:01 GMT</pubDate>
+    </item>
     <item>
       <title>@rodri_shema: What is one task you assigned to an AI agent in your business that failed comple…</title>
       <link>https://x.com/rodri_shema/status/2120614378475004054</link>
