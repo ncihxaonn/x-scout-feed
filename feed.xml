@@ -5,7 +5,114 @@
     <link>https://x.com</link>
     <description>Raw public English X posts (search results, unverified, author claims are self-reported) about recent AI model/product/API releases, agent and dev-tool capabilities, multimodal progress, papers, open-source demos, and AI failures, limits, security issues and controversies. Small search sample: not a trending list; allegations are unverified leads.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Nov 2026 20:55:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 20:43:25 GMT</lastBuildDate>
+    <item>
+      <title>@AmHardtech: Here's this week's hardtech roundup! U.S. HARDTECH: - Chipmakers had a wild week…</title>
+      <link>https://x.com/AmHardtech/status/2121690649007202398</link>
+      <guid isPermaLink="false">2121690649007202398</guid>
+      <description>Here's this week's hardtech roundup!
+
+U.S. HARDTECH:
+- Chipmakers had a wild week. Santa Clara's Nvidia said CEO Jensen Huang resigned effective immediately, with finance chief Colette Kress serving as interim CEO, while Santa Clara's Applied Materials posted a record $10.41B quarter and GlobalFoundries broke ground on a roughly $10B Japan-funded chip plant in Malta, New York.
+
+- Advanced reactors cleared key hurdles. The NRC issued its first construction permit for a high-temperature gas-cooled</description>
+      <pubDate>Sat, 14 Nov 2026 19:44:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>@ChaiWithAi: One bad upgrade silenced email in 74 countries. A rocket the size of a 40-storey…</title>
+      <link>https://x.com/ChaiWithAi/status/2121683047812853936</link>
+      <guid isPermaLink="false">2121683047812853936</guid>
+      <description>One bad upgrade silenced email in 74 countries. A rocket the size of a 40-storey building tried to catch itself. And your next iPhone might skip the SIM card and talk straight to space.
+
+Just another day in tech. 👇
+
+📧 The outage that stopped work worldwide
+Microsoft 365 went down for over 24 hours. Outlook, Teams and Copilot, gone, in 74 countries.
+The cause was not a hacker. Not AI. One faulty network upgrade.
+It is fixed now, but it showed how much of the world's work runs on one company's ser</description>
+      <pubDate>Sat, 14 Nov 2026 19:13:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>@0xpipimd: DeepSeek's open-source AI agent harness has crossed 280,000 GitHub stars. Even i…</title>
+      <link>https://x.com/0xpipimd/status/2121679787416846596</link>
+      <guid isPermaLink="false">2121679787416846596</guid>
+      <description>DeepSeek's open-source AI agent harness has crossed 280,000 GitHub stars. Even its agent loop, model adapter, and memory system are replaceable plugins.
+
+It's called DeepSeek Harness (dsh), and the architecture is worth studying if you're building AI coding agents.
+
+Most agent runtimes have a central execution loop responsible for calling the model, executing tools, managing state, and coordinating tasks.
+
+DeepSeek Harness takes a different approach. It's built on Cordis, a plugin framework wher</description>
+      <pubDate>Sat, 14 Nov 2026 19:00:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>@YRKRMarkets: What if you gave GPT-6 Astra a $1 MILLION trading desk? Not a stock-prediction b…</title>
+      <link>https://x.com/YRKRMarkets/status/2121668378620555271</link>
+      <guid isPermaLink="false">2121668378620555271</guid>
+      <description>What if you gave GPT-6 Astra a $1 MILLION trading desk?
+
+Not a stock-prediction bot.
+
+6 AI agents. Live research. Backtesting. Risk controls. Human approval.
+
+The most valuable signal might be: NO TRADE.
+
+Here's how I'd build it. 👇
+
+#AI #Trading #GPT6 https://t.co/TNYD9gYDTL</description>
+      <pubDate>Sat, 14 Nov 2026 18:15:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>@BobbyBuilds_ai: Hello Cousins... I've been building ESSIENSYNC behind the scenes. It's focused o…</title>
+      <link>https://x.com/BobbyBuilds_ai/status/2121654243329192113</link>
+      <guid isPermaLink="false">2121654243329192113</guid>
+      <description>Hello Cousins...
+
+I've been building ESSIENSYNC behind the scenes.
+It's focused on AI, business automation, API integrations and IoT.
+
+First milestone: the portfolio website is live.
+
+I'll share the build process, challenges, lessons and progress as we go.https://t.co/4PvwaPvGl4 https://t.co/XqRgNXhfdT</description>
+      <pubDate>Sat, 14 Nov 2026 17:19:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>@_vztu: 🚀 Introducing 𝗙𝗹𝗲𝘅-𝗥𝗦𝗜: 𝗕𝗲𝗻𝗰𝗵𝗺𝗮𝗿𝗸𝗶𝗻𝗴 𝗥𝗲𝗰𝘂𝗿𝘀𝗶𝘃𝗲 𝗦𝗲𝗹𝗳-𝗜𝗺𝗽𝗿𝗼𝘃𝗲𝗺𝗲𝗻𝘁 𝗼𝗳 𝗙𝗿𝗼𝗻𝘁𝗶𝗲𝗿 𝗔𝗴𝗲𝗻…</title>
+      <link>https://x.com/_vztu/status/2121638732558213391</link>
+      <guid isPermaLink="false">2121638732558213391</guid>
+      <description>🚀 Introducing 𝗙𝗹𝗲𝘅-𝗥𝗦𝗜: 𝗕𝗲𝗻𝗰𝗵𝗺𝗮𝗿𝗸𝗶𝗻𝗴 𝗥𝗲𝗰𝘂𝗿𝘀𝗶𝘃𝗲 𝗦𝗲𝗹𝗳-𝗜𝗺𝗽𝗿𝗼𝘃𝗲𝗺𝗲𝗻𝘁 𝗼𝗳 𝗙𝗿𝗼𝗻𝘁𝗶𝗲𝗿 𝗔𝗴𝗲𝗻𝘁𝘀
+
+We're curious: 𝘊𝘢𝘯 𝘢𝘯 𝘈𝘐 𝘢𝘨𝘦𝘯𝘵 𝘨𝘦𝘵 𝘣𝘦𝘵𝘵𝘦𝘳 𝘢𝘵 𝘪𝘵𝘴 𝘫𝘰𝘣 𝘣𝘺 𝘳𝘦𝘸𝘳𝘪𝘵𝘪𝘯𝘨 𝘩𝘰𝘸 𝘪𝘵 𝘸𝘰𝘳𝘬𝘴? 🔄
+
+We tested 𝟭𝟴 frontier models on 𝟮𝟰 tasks, from 𝗿𝗼𝗯𝗼𝘁 𝗰𝗼𝗻𝘁𝗿𝗼𝗹 and 𝟯𝗗 𝗿𝗲𝗰𝗼𝗻𝘀𝘁𝗿𝘂𝗰𝘁𝗶𝗼𝗻 to 𝗿𝗲𝗮𝘀𝗼𝗻𝗶𝗻𝗴 and 𝘃𝗶𝘀𝘂𝗮𝗹 𝗰𝗿𝗲𝗮𝘁𝗶𝗼𝗻—𝟭𝟴𝟴 runs and nearly 𝟯,𝟴𝟬𝟬 rounds of self-improvement. Agents could revise their code, tools, prompts, and workflows while their model weights stayed fixed.
+
+A few observations I found particularly interesting:
+
+🛠️ 𝗕𝘂𝗶</description>
+      <pubDate>Sat, 14 Nov 2026 16:17:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>@KathleenLBooth: SaaS vendors that don't structure pricing, packaging and product design to suppo…</title>
+      <link>https://x.com/KathleenLBooth/status/2121602030300975132</link>
+      <guid isPermaLink="false">2121602030300975132</guid>
+      <description>SaaS vendors that don't structure pricing, packaging and product design to support headless use cases are already losing business - and its only going to get worse.
+
+Earlier this week I was building an automation in Claude Code that maps our team's warm connections across a list of 1,500 people I want to invite to an event.
+
+The API for the platform I was using to do this throttled me at about 10 calls a minute, so I found myself DMing someone at the company to ask them to speed up my API calls.</description>
+      <pubDate>Sat, 14 Nov 2026 13:51:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>@yourealazyfvck: I've been building out and scaffolding a lot of things for Synthesys internally…</title>
+      <link>https://x.com/yourealazyfvck/status/2121584452350693773</link>
+      <guid isPermaLink="false">2121584452350693773</guid>
+      <description>I've been building out and scaffolding a lot of things for Synthesys internally recently as we're trying to push the bleeding edge and develop features and products that our customers will love and use every day
+
+Most of you follow me for stuff I did pre-AI but most of you don't know how much I've done and understand in AI now after building one of the largest AI voice agent platforms in the world over the past almost 2 years
+
+I decided to take the past 2 weeks and do things myself for a change </description>
+      <pubDate>Sat, 14 Nov 2026 12:42:05 GMT</pubDate>
+    </item>
     <item>
       <title>@iammutex: hey @X , not new here but never did a proper intro &amp;gt; 40, SF &amp;amp; Singapore &amp;…</title>
       <link>https://x.com/iammutex/status/2121300387269599408</link>
