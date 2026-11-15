@@ -5,7 +5,69 @@
     <link>https://x.com</link>
     <description>Raw public English X posts (search results, unverified, author claims are self-reported) about recent AI model/product/API releases, agent and dev-tool capabilities, multimodal progress, papers, open-source demos, and AI failures, limits, security issues and controversies. Small search sample: not a trending list; allegations are unverified leads.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Nov 2026 20:43:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 20:38:53 GMT</lastBuildDate>
+    <item>
+      <title>@sahilsalunke42: Built Last Signal, an open-source CLI for investigating failed AI-agent executio…</title>
+      <link>https://x.com/sahilsalunke42/status/2122059506259755348</link>
+      <guid isPermaLink="false">2122059506259755348</guid>
+      <description>Built Last Signal, an open-source CLI for investigating failed AI-agent executions. Python version is live on PyPI! Next: A JavaScript/TypeScript module. Looking for JS/TS developers to help build it. Interested? Let's collaborate! GitHub: https://t.co/mPucNDgRLl</description>
+      <pubDate>Sun, 15 Nov 2026 20:09:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>@stretchcloud: Letting an AI agent touch your brokerage account used to mean pasting API keys i…</title>
+      <link>https://x.com/stretchcloud/status/2122055787795124494</link>
+      <guid isPermaLink="false">2122055787795124494</guid>
+      <description>Letting an AI agent touch your brokerage account used to mean pasting API keys into a script and hoping nothing broke. In the past twelve months, seven major brokers made that official instead, and the shape of what they built tells you more than any single launch does.
+
+The https://t.co/RZAgfY6mvR</description>
+      <pubDate>Sun, 15 Nov 2026 19:55:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>@Afaq_iffi03: An enterprise AI agent leaked 53 private user images to public cloud storage. No…</title>
+      <link>https://x.com/Afaq_iffi03/status/2122042101634420770</link>
+      <guid isPermaLink="false">2122042101634420770</guid>
+      <description>An enterprise AI agent leaked 53 private user images to public cloud storage. No attacker. No injection. It hit a parsing error and decided the fix was to upload the files somewhere else. Nobody reviewed the move.
+
+TechCrunch's investigation found the pipeline, built on OpenAI</description>
+      <pubDate>Sun, 15 Nov 2026 19:00:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>@arifbuildsai: The "attacker" in the WorkOS breach turned out to be a test. A security research…</title>
+      <link>https://x.com/arifbuildsai/status/2122019527831552031</link>
+      <guid isPermaLink="false">2122019527831552031</guid>
+      <description>The "attacker" in the WorkOS breach turned out to be a test.
+
+A security researcher was running ARTEX, an AI agent built to hack, inside a benchmark. The agent escaped its isolated test environment, found WorkOS's internal sales tool on the open internet, and walked in through a https://t.co/lUNq9wkpaF</description>
+      <pubDate>Sun, 15 Nov 2026 17:30:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>@AJ45999: Rogue AI The New Bipolar Order Via @EagleIntReports AI sovereignty has a blind s…</title>
+      <link>https://x.com/AJ45999/status/2122019038436147491</link>
+      <guid isPermaLink="false">2122019038436147491</guid>
+      <description>Rogue AI
+
+The New Bipolar Order
+
+Via @EagleIntReports
+
+AI sovereignty has a blind spot
+
+Chips and models can't show what foreign AI agents do in a state's networks.
+
+Washington and Beijing hold intelligence on AI agent incidents; warnings may reward alignment and deepen AI blocs.</description>
+      <pubDate>Sun, 15 Nov 2026 17:28:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>@insanekrishnaa: 🚨 GPT-6.2 SOL COULD MAKE MULTI-AGENT SYSTEMS SIGNIFICANTLY MORE POWERFUL. Buildi…</title>
+      <link>https://x.com/insanekrishnaa/status/2121992963740123268</link>
+      <guid isPermaLink="false">2121992963740123268</guid>
+      <description>🚨 GPT-6.2 SOL COULD MAKE MULTI-AGENT SYSTEMS SIGNIFICANTLY MORE POWERFUL.
+
+Building one AI agent is relatively easy. Getting 10 specialized agents to work together without losing context or producing conflicting results is a different challenge.
+
+But imagine GPT-6.2 Sol could: https://t.co/lqIETkikTs</description>
+      <pubDate>Sun, 15 Nov 2026 15:45:21 GMT</pubDate>
+    </item>
     <item>
       <title>@AmHardtech: Here's this week's hardtech roundup! U.S. HARDTECH: - Chipmakers had a wild week…</title>
       <link>https://x.com/AmHardtech/status/2121690649007202398</link>
