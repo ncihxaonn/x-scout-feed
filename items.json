@@ -1,7 +1,41 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-16T05:00:23+08:00",
+  "updated_at": "2026-11-17T04:40:33+08:00",
   "items": [
+    {
+      "id": "2122418281961377980",
+      "url": "https://x.com/vitorcardosobjj/status/2122418281961377980",
+      "author_handle": "vitorcardosobjj",
+      "published_at": "2026-11-16T19:55:25.000Z",
+      "collected_at": "2026-11-17T04:39:56+08:00",
+      "original_excerpt": "Hey, I'm Vítor! 👋🇧🇷\n\nI'm a Network &amp; Security Engineer passionate about building, securing, and troubleshooting IT infrastructure.\n\nHere, I'll share:\n\n🌐 Networking &amp; Cybersecurity\n🖥️ Homelab &amp; Infrastructure\n⚙️ Automation &amp; SRE\n🤖 AI applied to IT operations\n🔬 Hands-on labs &amp;",
+      "excerpt_truncated": false,
+      "likes": 4,
+      "replies": 7,
+      "reposts": 1,
+      "views": 61,
+      "source": "grok-bot-builtin-x search_posts_all",
+      "verification": "search_result",
+      "event_key": "post-2122418281961377980",
+      "signal": null
+    },
+    {
+      "id": "2122325313657225645",
+      "url": "https://x.com/amitmuflis/status/2122325313657225645",
+      "author_handle": "amitmuflis",
+      "published_at": "2026-11-16T13:46:00.000Z",
+      "collected_at": "2026-11-17T04:39:56+08:00",
+      "original_excerpt": "If you got fired today, which AI skills would get you rehired fastest? AI now shows up in 7.3% of US job posts, double last year, and AI roles pay a 62% premium. Here are the 10 skills, a free way to learn each in 30 days, and the proof that gets you hired https://t.co/woKjUrmbic",
+      "excerpt_truncated": false,
+      "likes": 6,
+      "replies": 9,
+      "reposts": 0,
+      "views": 1006,
+      "source": "grok-bot-builtin-x search_posts_all",
+      "verification": "search_result",
+      "event_key": "post-2122325313657225645",
+      "signal": null
+    },
     {
       "id": "2122059506259755348",
       "url": "https://x.com/sahilsalunke42/status/2122059506259755348",
