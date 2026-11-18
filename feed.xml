@@ -5,7 +5,85 @@
     <link>https://x.com</link>
     <description>Raw public English X posts (search results, unverified, author claims are self-reported) about recent AI model/product/API releases, agent and dev-tool capabilities, multimodal progress, papers, open-source demos, and AI failures, limits, security issues and controversies. Small search sample: not a trending list; allegations are unverified leads.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 20:40:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 20:43:05 GMT</lastBuildDate>
+    <item>
+      <title>@sytaylor: SUUUPER INTERESTING report by @Affirm and Consumer Reports found AI failed 51% o…</title>
+      <link>https://x.com/sytaylor/status/2123142973751955837</link>
+      <guid isPermaLink="false">2123142973751955837</guid>
+      <description>SUUUPER INTERESTING report by @Affirm and Consumer Reports found AI failed 51% of "payment advice" tests
+
+They created a markdown file (on GitHub) that lifted the pass rate from 48.6% to 71.8%.
+
+Every model passed more often with the file.
+
+- GPT-6.1 Sol went from 73.3% to 93.3% https://t.co/A71eghfHz4</description>
+      <pubDate>Wed, 18 Nov 2026 19:55:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>@cgibsondev: Microsoft quietly dropped something pretty interesting at Ignite yesterday. Two…</title>
+      <link>https://x.com/cgibsondev/status/2123140430820790405</link>
+      <guid isPermaLink="false">2123140430820790405</guid>
+      <description>Microsoft quietly dropped something pretty interesting at Ignite yesterday.
+
+Two new coding models: MAI Code 2 and MAI Code 2 Flash.
+
+And the numbers are kind of ridiculous.
+
+Microsoft claims MAI Code 2 delivers 98% of GPT-6.1 Sol's coding performance at roughly 40% of the cost.</description>
+      <pubDate>Wed, 18 Nov 2026 19:44:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>@lvlforge: Level designer here. I built a whole Roblox level with Codex and wrote down the…</title>
+      <link>https://x.com/lvlforge/status/2123114834258706859</link>
+      <guid isPermaLink="false">2123114834258706859</guid>
+      <description>Level designer here. I built a whole Roblox level with Codex and wrote down the 6 rules I had to teach it.
+Every prompt I shipped is inside, plus the list of what broke along the way https://t.co/tzfJds4v9B</description>
+      <pubDate>Wed, 18 Nov 2026 18:03:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>@usegreenbar: Building this week: an MCP server for Greenbar. Connect your AI agent with an AP…</title>
+      <link>https://x.com/usegreenbar/status/2123094770444624103</link>
+      <guid isPermaLink="false">2123094770444624103</guid>
+      <description>Building this week: an MCP server for Greenbar. Connect your AI agent with an API key and ask it "is my client's site up, what failed, since when", or have it set up a new check. Paid plans, and it only sees your own account. Not live yet, I'll post when it is.</description>
+      <pubDate>Wed, 18 Nov 2026 16:43:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>@OpenNavo: The agent opens your site in a single hidden webview, and you never see the phon…</title>
+      <link>https://x.com/OpenNavo/status/2123093912445218973</link>
+      <guid isPermaLink="false">2123093912445218973</guid>
+      <description>The agent opens your site in a single hidden webview, and you never see the phone size it just broke.
+
+Polypane 32.0.0 from @polypane was released on November 18, 2026. Polypane Automation lets AI agents control and get feedback from Polypane using its built-in MCP server.
+
+Same</description>
+      <pubDate>Wed, 18 Nov 2026 16:40:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>@xltheg: ⚡ day 74/207 · missed days: 1 does every business process really need its own AI…</title>
+      <link>https://x.com/xltheg/status/2122846703489294835</link>
+      <guid isPermaLink="false">2122846703489294835</guid>
+      <description>⚡ day 74/207 · missed days: 1
+
+does every business process really need its own AI agent?
+
+i spent some time today thinking about a possible product for people who aren’t technical: a way to build an AI harness around a specific business process, even in a domain i’d be new to
+
+when building my own stuff its easy and i’d also encourage people to do it themselves, but how would you go on and build a harness for a non technical business owner?
+
+the idea is still pretty rough. but i keep coming back</description>
+      <pubDate>Wed, 18 Nov 2026 00:17:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>@AGTPinsights: Vibe coding just hit X's trending list today. Here's what you need to know. Vibe…</title>
+      <link>https://x.com/AGTPinsights/status/2122811896734618014</link>
+      <guid isPermaLink="false">2122811896734618014</guid>
+      <description>Vibe coding just hit X's trending list today. Here's what you need to know.
+
+Vibe coding means building software by chatting with AI. You describe what you want and the AI writes the code. People with no coding background can now build apps this way.
+
+Claude Code is the tool at the center of the posts. It's Anthropic's agentic coding tool for the terminal. It understands your codebase, edits files and runs commands. Claude Code 2.0 shipped on September 29, 2025. Anthropic's Code Review feature, </description>
+      <pubDate>Tue, 17 Nov 2026 21:59:30 GMT</pubDate>
+    </item>
     <item>
       <title>@GelosSnake: Apple went down today. So did the NSA’s classified network. Yesterday it was Cha…</title>
       <link>https://x.com/GelosSnake/status/2122781464056013179</link>
