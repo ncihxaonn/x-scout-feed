@@ -5,7 +5,148 @@
     <link>https://x.com</link>
     <description>Raw public English X posts (search results, unverified, author claims are self-reported) about recent AI model/product/API releases, agent and dev-tool capabilities, multimodal progress, papers, open-source demos, and AI failures, limits, security issues and controversies. Small search sample: not a trending list; allegations are unverified leads.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Nov 2026 20:39:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 20:46:13 GMT</lastBuildDate>
+    <item>
+      <title>@michwirantono: AI agents won't recommend what they can build. I talked about this on @TheMicrod…</title>
+      <link>https://x.com/michwirantono/status/2123876312053960908</link>
+      <guid isPermaLink="false">2123876312053960908</guid>
+      <description>AI agents won't recommend what they can build.
+
+I talked about this on @TheMicrodoseAI 🎙️
+
+Researchers asked an agent to replace one of the most popular JavaScript libraries, Lodash, with its own code.
+
+It worked in 16 of 20 projects: every test still passed.
+
+In the other 4, its code broke tests. Those projects relied on features like deep cloning, which makes exact copies of complex data.
+
+Same product, two outcomes. The difference was how difficult its functionality was to replicate.
+
+So ever</description>
+      <pubDate>Fri, 20 Nov 2026 20:29:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>@MaryamMiradi: 🛠️🧭 I went down the AI Agent Harness Engineering rabbit hole. If you are buildin…</title>
+      <link>https://x.com/MaryamMiradi/status/2123875734305345575</link>
+      <guid isPermaLink="false">2123875734305345575</guid>
+      <description>🛠️🧭 I went down the AI Agent Harness Engineering rabbit hole.
+
+If you are building AI Agents, you have probably seen this:
+Agents that stop before finishing, repeat the same failed tool calls, lose context halfway through a task, or confidently tell you the code works without running a single test.
+
+I came across LangChain's research showing how they improved their coding agent from 52.8% to 66.5% on Terminal-Bench 2.0.
+
+They moved from outside the Top 30 to the Top 5 without changing the LLM.
+
+</description>
+      <pubDate>Fri, 20 Nov 2026 20:26:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>@LLMERDOTCOM: agent infra · week of November 16 broke → Google's threat intel group says a sus…</title>
+      <link>https://x.com/LLMERDOTCOM/status/2123854531402612937</link>
+      <guid isPermaLink="false">2123854531402612937</guid>
+      <description>agent infra · week of November 16
+
+broke
+→ Google's threat intel group says a suspected Russian-speaking operator used an AI agent to diff security patches, write working exploits and run them with no human in the loop, then steal data from victims. Google calls it a first
+→ two releases of Microsoft's agent-framework package on PyPI shipped a credential stealer on November 17. the second one went up after PyPI had already quarantined the first
+
+shipped
+→ LangChain put LangSmith Tool Gateway in </description>
+      <pubDate>Fri, 20 Nov 2026 19:02:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>@AskTolik: Today in Grok Bot news 🤖 Eight people who shared what they built, automated or l…</title>
+      <link>https://x.com/AskTolik/status/2123834559204655295</link>
+      <guid isPermaLink="false">2123834559204655295</guid>
+      <description>Today in Grok Bot news 🤖
+
+Eight people who shared what they built, automated or learned with @bot in the last 24 hours:
+
+1. Costa Kapothanasis: after emails to Ohio BWC never got a workers' comp Letter ID and a fine arrived, Grok Bot called the bureau, got the ID, paid the invoice with the fine, and sent back a recording of the call. The woman on the line had no idea she was talking to Grok Bot.
+
+2. Jenny Marquis: missing the bottoms to a bikini top she'd found on vacation, her Fashion Stylist b</description>
+      <pubDate>Fri, 20 Nov 2026 17:43:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>@arnaudmercier: &lt;iframe id="noa-web-audio-player" style="border: none" src="https://t.co/nQ0jzbX…</title>
+      <link>https://x.com/arnaudmercier/status/2123804574309892334</link>
+      <guid isPermaLink="false">2123804574309892334</guid>
+      <description>&lt;iframe id="noa-web-audio-player" style="border: none" src="https://t.co/nQ0jzbX6w1" width="100%" height="110px"&gt;&lt;/iframe&gt;                                                                                                                                                                                                                                                                                                                        
+
+&lt;p class="wp-block-paragraph"&gt;The race to build ever larger AI m</description>
+      <pubDate>Fri, 20 Nov 2026 15:44:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>@arthur_win8: GROK BUILD Updated 2026-11-20 Sources: official xAI Build docs + xAI CLI page +…</title>
+      <link>https://x.com/arthur_win8/status/2123771746625187936</link>
+      <guid isPermaLink="false">2123771746625187936</guid>
+      <description>GROK BUILD
+Updated 2026-11-20
+Sources: official xAI Build docs + xAI CLI page + your Grok Build bookmark folder (353 posts)
+WHAT NEW TODAY
+- 3 new Grok Build bookmarks.
+- Grok Build v1.0.87 (Nov 15 post): the MCP panel in minimal mode now has search, the full action hints and interactive forms. Typing on a permission card sends your text to the model as feedback instead of changing the selected row. Dragging to select text skips collapsed tool calls and the turn summary, so copies hold only the </description>
+      <pubDate>Fri, 20 Nov 2026 13:33:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>@ContextQa: You don't have to start with Selenium to get into test automation. ContextQA Ess…</title>
+      <link>https://x.com/ContextQa/status/2123770892786245833</link>
+      <guid isPermaLink="false">2123770892786245833</guid>
+      <description>You don't have to start with Selenium to get into test automation.
+
+ContextQA Essentials on Udemy covers web, mobile on real devices, API and AI-powered testing, with self-healing tests and failure analysis. Short lessons, building from day one.
+
+Course link below. https://t.co/ookpKw6mvn</description>
+      <pubDate>Fri, 20 Nov 2026 13:30:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>@read__the__diff: Who's shipping something this week? 🚀 I'd like to #connect with people into: 🤖 A…</title>
+      <link>https://x.com/read__the__diff/status/2123768546878484760</link>
+      <guid isPermaLink="false">2123768546878484760</guid>
+      <description>Who's shipping something this week? 🚀
+
+I'd like to #connect with people into:
+
+🤖 AI agents &amp; MCP: agents that do real work
+🛠️ Dev tools: build fast without cutting corners
+📈 SaaS: profitable from day one
+🔒 Security: secure by design, calm when incidents hit
+
+I share what I learn building my side projects. Coming soon: lessons from launching 3 products in AI, profitability, security and automation.
+
+Drop a 👋 and what you're building. I read every reply.</description>
+      <pubDate>Fri, 20 Nov 2026 13:20:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>@marywontwait: HERE'S WHAT ACTUALLY MOVED IN AI. AI AGENTS NOW HAVE A BUDGET AND A COMPANY CARD…</title>
+      <link>https://x.com/marywontwait/status/2123765074883948835</link>
+      <guid isPermaLink="false">2123765074883948835</guid>
+      <description>HERE'S WHAT ACTUALLY MOVED IN AI.
+
+AI AGENTS NOW HAVE A BUDGET AND A COMPANY CARD.
+THE RULES FOR WHAT THEY CAN SEE ARE STILL BEING WRITTEN.
+
+1. @OpenAI published its own usage numbers on Nov 18. At list prices, its median researcher used $2,400 of AI agent time a day in October. Asked what they'd give up to keep their coding agents for three months, the median answer was 40% of their team's headcount. On Nov 17, Business Insider reported a Salesforce memo putting every role on a monthly token bu</description>
+      <pubDate>Fri, 20 Nov 2026 13:07:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>@beginnersblog1: You don't need to animate every frame manually to create professional motion gra…</title>
+      <link>https://x.com/beginnersblog1/status/2123653705052696763</link>
+      <guid isPermaLink="false">2123653705052696763</guid>
+      <description>You don't need to animate every frame manually to create professional motion graphics anymore.
+
+Claude can help you turn a simple idea into a product explainer, animated chart, or even a cinematic scene.
+
+And I think this is one of its most underrated uses.
+
+Most people associate AI video with generating realistic clips.
+
+But what if you want to explain how your product works? Visualize a complex AI system? Or turn boring data into something people actually understand?
+
+That's where Claude Code </description>
+      <pubDate>Fri, 20 Nov 2026 05:44:33 GMT</pubDate>
+    </item>
     <item>
       <title>@mentalium_: Microsoft quietly dropped one of the CLEANEST FREE AI agent courses on GitHub Bu…</title>
       <link>https://x.com/mentalium_/status/2123446595286860200</link>
@@ -1693,15 +1834,6 @@ we wanted to see which brands chatgpt and gemini recommend when people ask about
 
 our @nodemaven GEO API could already collect those answers through real browsers on our proxies, with a choice of countries and </description>
       <pubDate>Fri, 23 Oct 2026 12:31:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>@felipediazc76: I built a SaaS solo, side by side with an AI agent: a Claude API assistant with…</title>
-      <link>https://x.com/felipediazc76/status/2112918969711829399</link>
-      <guid isPermaLink="false">2112918969711829399</guid>
-      <description>I built a SaaS solo, side by side with an AI agent: a Claude API assistant with real guardrails, 70+ tutorial videos generated with code, and e2e tests that found bugs no unit test caught. What I learned 👇
-https://t.co/SsbhArYGkx
-#Java #AI #BuildInPublic</description>
-      <pubDate>Wed, 21 Oct 2026 14:48:33 GMT</pubDate>
     </item>
   </channel>
 </rss>
