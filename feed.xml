@@ -5,7 +5,99 @@
     <link>https://x.com</link>
     <description>Raw public English X posts (search results, unverified, author claims are self-reported) about recent AI model/product/API releases, agent and dev-tool capabilities, multimodal progress, papers, open-source demos, and AI failures, limits, security issues and controversies. Small search sample: not a trending list; allegations are unverified leads.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Nov 2026 20:46:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 20:39:26 GMT</lastBuildDate>
+    <item>
+      <title>@AmHardtech: Here's this week's hardtech roundup! U.S. HARDTECH: - The Pentagon moved to buy…</title>
+      <link>https://x.com/AmHardtech/status/2124238113698648440</link>
+      <guid isPermaLink="false">2124238113698648440</guid>
+      <description>Here's this week's hardtech roundup!
+
+U.S. HARDTECH:
+- The Pentagon moved to buy drones and drone defenses faster. Its counter-drone task force picked seven teams for a laser weapon shoot-off, with purchase orders possible right away. The Army launched a competition for 400 cheap attack drones at no more than $3k each, with options for up to 10k.
+
+- Nuclear and fusion moved forward. North Carolina regulators let Duke Energy continue licensing work for four AP1000 reactors. New York released a pl</description>
+      <pubDate>Sat, 21 Nov 2026 20:26:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>@brennanzambo: your AI agent saying "done" is a claim. here is how you make it something anyone…</title>
+      <link>https://x.com/brennanzambo/status/2124236474950230495</link>
+      <guid isPermaLink="false">2124236474950230495</guid>
+      <description>your AI agent saying "done" is a claim. here is how you make it something anyone can check
+
+three things i learned building the verifiable work layer for AI, all three proven by strangers this week, not by me
+
+an agent duplicates work when it never checks what already exists. an independent evaluator ran 171 trials on a scheduling agent this week. all 20 unwanted jobs came from three cases, and in the worst one 0 of 9 trials looked at the existing jobs before creating a duplicate. the fix is not</description>
+      <pubDate>Sat, 21 Nov 2026 20:20:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>@arnaudmercier: &lt;p class="wp-block-paragraph"&gt;The ability to remember you and your preferences i…</title>
+      <link>https://x.com/arnaudmercier/status/2124218707106816436</link>
+      <guid isPermaLink="false">2124218707106816436</guid>
+      <description>&lt;p class="wp-block-paragraph"&gt;The ability to remember you and your preferences is rapidly becoming a big selling point for AI chatbots and agents.&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Earlier this month, Google announced &lt;a href="https://t.co/FuptmdCSg0"&gt;Personal Intelligence&lt;/a&gt;, a new way for people to interact with the company’s Gemini chatbot that draws on their Gmail, photos, search, and YouTube histories to make Gemini “more personal, proactive, and powerful.” It echoes similar moves b</description>
+      <pubDate>Sat, 21 Nov 2026 19:09:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>@arnaudmercier: &lt;p class="wp-block-paragraph"&gt;Parents of young children face a lot of fears abou…</title>
+      <link>https://x.com/arnaudmercier/status/2124210639425986582</link>
+      <guid isPermaLink="false">2124210639425986582</guid>
+      <description>&lt;p class="wp-block-paragraph"&gt;Parents of young children face a lot of fears about developmental milestones, from infancy through adulthood. The number of months it takes a baby to learn to talk or walk is often used as a benchmark for wellness, or an indicator of additional tests needed to properly diagnose a potential health condition. A parent rejoices over the child’s first steps and then realizes how much has changed when the child can quickly walk outside, instead of slowly crawling in a sa</description>
+      <pubDate>Sat, 21 Nov 2026 18:37:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>@cotsec14: Hot take: vibe coding didn't kill backend skills. It made them the bottleneck. A…</title>
+      <link>https://x.com/cotsec14/status/2124191781239849379</link>
+      <guid isPermaLink="false">2124191781239849379</guid>
+      <description>Hot take: vibe coding didn't kill backend skills. It made them the bottleneck.
+
+AI ships the feature in an hour. Then it meets real traffic, a real database and real users.
+
+What was the first thing that broke in your AI-built project?</description>
+      <pubDate>Sat, 21 Nov 2026 17:22:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>@arnaudmercier: &lt;p class="wp-block-paragraph"&gt;The global health care sector is under increasing…</title>
+      <link>https://x.com/arnaudmercier/status/2124183824661655977</link>
+      <guid isPermaLink="false">2124183824661655977</guid>
+      <description>&lt;p class="wp-block-paragraph"&gt;The global health care sector is under increasing strain.&amp;nbsp;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Decades of chronic underinvestment and constraints in recruitment have coincided with a surge in demand for services for aging populations. Gaps in provision are already taking a toll, with fragmented access to care and high rates of stress and burnout among staff. And it’s getting worse. The &lt;a href="https://t.co/FHeN4Gxjqn" target="_blank" rel="noreferrer noopener"&gt;W</description>
+      <pubDate>Sat, 21 Nov 2026 16:51:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>@gerardsans: 🚨 AI slop math dumps: Presenting an RH proof you don't understand breaks the bas…</title>
+      <link>https://x.com/gerardsans/status/2124156031303324002</link>
+      <guid isPermaLink="false">2124156031303324002</guid>
+      <description>🚨 AI slop math dumps: Presenting an RH proof you don't understand breaks the basic contract of math
+
+Anthropic mathematician Levent Alpöge released a claimed proof of the Riemann Hypothesis (and GRH) built with Claude. A four-page note. 17 million lines of Lean. No readable paper. He has openly stated that Claude outpaced him on the technical core and that he lacks mastery of the material involved.
+
+The claim is public. The understanding is not.
+
+[ The claim ]
+
+Independent checks show the formal</description>
+      <pubDate>Sat, 21 Nov 2026 15:00:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>@sayervonn: this is f*cking wild. a guy who ran a gold desk for 14 years just told me the ea…</title>
+      <link>https://x.com/sayervonn/status/2124141366947008751</link>
+      <guid isPermaLink="false">2124141366947008751</guid>
+      <description>this is f*cking wild. a guy who ran a gold desk for 14 years just told me the easiest way to get rich in the next two years:
+
+"stop trading. build an agent that trades. if it reads the market better than everyone else's, you own the desk yourself"
+
+so i did. 4 months later:
+
++$41,860. four claude models trade gold, NAS100 and EURUSD for me now. most of it happened while i slept
+
+Prompts → Fable 5.2 → Memory → Skills → MCP → A Trading Desk You Own Yourself
+
+my desk:
+→ Fable 5.2 reads the macro an</description>
+      <pubDate>Sat, 21 Nov 2026 14:02:21 GMT</pubDate>
+    </item>
     <item>
       <title>@michwirantono: AI agents won't recommend what they can build. I talked about this on @TheMicrod…</title>
       <link>https://x.com/michwirantono/status/2123876312053960908</link>
