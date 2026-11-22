@@ -5,7 +5,96 @@
     <link>https://x.com</link>
     <description>Raw public English X posts (search results, unverified, author claims are self-reported) about recent AI model/product/API releases, agent and dev-tool capabilities, multimodal progress, papers, open-source demos, and AI failures, limits, security issues and controversies. Small search sample: not a trending list; allegations are unverified leads.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Nov 2026 20:39:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 20:40:04 GMT</lastBuildDate>
+    <item>
+      <title>@Markouizos90468: **Why Financial AI Needs Better Handling of Dependencies** In financial automati…</title>
+      <link>https://x.com/Markouizos90468/status/2124584039713497363</link>
+      <guid isPermaLink="false">2124584039713497363</guid>
+      <description>**Why Financial AI Needs Better Handling of Dependencies**
+
+In financial automation, one operation can depend on the successful completion of another. These relationships determine whether a workflow can proceed smoothly or becomes delayed by incomplete steps.
+
+When dependencies</description>
+      <pubDate>Sun, 22 Nov 2026 19:21:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>@brandongalang: If you're a PM who enjoys figuring out how something should work but feels far a…</title>
+      <link>https://x.com/brandongalang/status/2124547708887462018</link>
+      <guid isPermaLink="false">2124547708887462018</guid>
+      <description>If you're a PM who enjoys figuring out how something should work but feels far away from what actually ships, applied AI is worth exploring.
+
+I liked the product work. I got tired of how indirect it could feel.
+
+Building with an AI agent gave me a much shorter loop: explain what https://t.co/EPKgIgbRJd</description>
+      <pubDate>Sun, 22 Nov 2026 16:57:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>@aakashgupta: The pickiest customer on the internet will never read your landing page. It runs…</title>
+      <link>https://x.com/aakashgupta/status/2124541693852897589</link>
+      <guid isPermaLink="false">2124541693852897589</guid>
+      <description>The pickiest customer on the internet will never read your landing page. It runs its own benchmark and checks your price before it picks anyone.
+
+That customer is an AI agent, and a16z says HUMAN Security saw agent web traffic grow 8x from August to October.
+
+So I asked the CPO https://t.co/hvjTPA7IqF https://t.co/8MzpGQRFel</description>
+      <pubDate>Sun, 22 Nov 2026 16:33:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>@Hordak0x: ROCKSTAR FIRED ME FOR USING AI. THEN THE COMPANY DEMANDED $2.4 MILLION FROM ME.…</title>
+      <link>https://x.com/Hordak0x/status/2124518357109989397</link>
+      <guid isPermaLink="false">2124518357109989397</guid>
+      <description>ROCKSTAR FIRED ME FOR USING AI. THEN THE COMPANY DEMANDED $2.4 MILLION FROM ME.
+
+For six years, I worked at a major video game studio as a Senior Release Infrastructure Architect. My job was to make sure the things players never think about actually worked - Game updates , Server https://t.co/mu7siO90T3 https://t.co/4Slx62ojrA</description>
+      <pubDate>Sun, 22 Nov 2026 15:00:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>@10millionperbtc: Four real-world AI workflow lessons from operators this week — cost, guardrails,…</title>
+      <link>https://x.com/10millionperbtc/status/2124512445532414313</link>
+      <guid isPermaLink="false">2124512445532414313</guid>
+      <description>Four real-world AI workflow lessons from operators this week — cost, guardrails, and unit economics (Nov 16–19, 2026):
+
+• Codify playbooks &amp;amp; cross-check models (Bireme Capital, Nov 18): A 2-person investment firm runs Claude Code + Codex for &amp;lt;$1K/mo (vs $10K+/mo at API list https://t.co/QDHySomL1z</description>
+      <pubDate>Sun, 22 Nov 2026 14:36:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>@0xneroun: This is f*cking insane. Google's CEO just dropped a warning that almost nobody i…</title>
+      <link>https://x.com/0xneroun/status/2124490589676712203</link>
+      <guid isPermaLink="false">2124490589676712203</guid>
+      <description>This is f*cking insane. Google's CEO just dropped a warning that almost nobody is taking seriously:
+
+"In three years, today's AI will look as primitive as a flip phone. The progress we're about to see will surprise people"
+
+In under 2 minutes, he explains why this moment is https://t.co/XfilSdbMZ6 https://t.co/l88QDfYUMt</description>
+      <pubDate>Sun, 22 Nov 2026 13:10:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>@loftwah: This is a test we came up with for a local AI model Challenge: Design an Autonom…</title>
+      <link>https://x.com/loftwah/status/2124424751536066892</link>
+      <guid isPermaLink="false">2124424751536066892</guid>
+      <description>This is a test we came up with for a local AI model
+
+Challenge: Design an Autonomous AI App Factory
+
+You are the principal architect of App Composer, an AI-powered creation platform built primarily on Cloudflare Workers.
+
+Your task is to design a technically credible system that allows non-technical users to describe an outcome, have AI agents build it, verify it, deploy it, and maintain it.
+
+You have no internet access or external tools for this exercise. Do not claim to have executed code, ver</description>
+      <pubDate>Sun, 22 Nov 2026 08:48:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>@The_Tradesman1: 💰 An $85,000 AI job for a year, no degree needed. Anthropic is funding 1,000 of…</title>
+      <link>https://x.com/The_Tradesman1/status/2124341039792296185</link>
+      <guid isPermaLink="false">2124341039792296185</guid>
+      <description>💰 An $85,000 AI job for a year, no degree needed. Anthropic is funding 1,000 of them
+
+It's called Claude Corps Fellows spend 12 months full-time at a US nonprofit, building AI tools for its team. The pay comes with medical, dental and vision cover. CodePath, a coding-education nonprofit, is the employer, and Anthropic pays for the program.
+
+Applications are open for the group starting in August 2027. To apply, you need:
+1. Anthropic's two free courses, AI Fluency and Claude 101, about 6.5 hours </description>
+      <pubDate>Sun, 22 Nov 2026 03:15:46 GMT</pubDate>
+    </item>
     <item>
       <title>@AmHardtech: Here's this week's hardtech roundup! U.S. HARDTECH: - The Pentagon moved to buy…</title>
       <link>https://x.com/AmHardtech/status/2124238113698648440</link>
@@ -1911,21 +2000,6 @@ Does Google treat PDF files differently when it comes to indexing, ranking, and 
 
 In this episode of Search Off the Record, Martin Splitt and John Mueller from the Google Search Relations team demystify how Goog</description>
       <pubDate>Thu, 29 Oct 2026 00:52:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>@StanSadokov: ai visibility tools are insanely expensive. promptwatch business costs $579 a mo…</title>
-      <link>https://x.com/StanSadokov/status/2113609323062632891</link>
-      <guid isPermaLink="false">2113609323062632891</guid>
-      <description>ai visibility tools are insanely expensive.
-
-promptwatch business costs $579 a month and stops at 350 prompts. peec ai advanced costs $495 for the same 350.
-
-at enterprise volume, the price can easily reach $10,000 to $100,000.
-
-we wanted to see which brands chatgpt and gemini recommend when people ask about proxies, across hundreds of prompts and different countries.
-
-our @nodemaven GEO API could already collect those answers through real browsers on our proxies, with a choice of countries and </description>
-      <pubDate>Fri, 23 Oct 2026 12:31:46 GMT</pubDate>
     </item>
   </channel>
 </rss>
