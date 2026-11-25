@@ -5,7 +5,164 @@
     <link>https://x.com</link>
     <description>Raw public English X posts (search results, unverified, author claims are self-reported) about recent AI model/product/API releases, agent and dev-tool capabilities, multimodal progress, papers, open-source demos, and AI failures, limits, security issues and controversies. Small search sample: not a trending list; allegations are unverified leads.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Nov 2026 20:35:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 20:37:49 GMT</lastBuildDate>
+    <item>
+      <title>@AlexTimDaoLong: If you are an AI automation builder getting likes and fire emojis from other bro…</title>
+      <link>https://x.com/AlexTimDaoLong/status/2125684244752048607</link>
+      <guid isPermaLink="false">2125684244752048607</guid>
+      <description>If you are an AI automation builder getting likes and fire emojis from other broke freelancers on your AI demos while zero real B2B buyers ever click your Calendly link...
+
+You already know how exhausting it feels to get ghosted after hours of building.
+
+Most builders fail because blasting cold lists is like shoving a mystery brown bag in a stranger's face.
+
+Making a custom sandwich with someone who is already hungry wins every single time.
+
+Every winning campaign follows three simple rules:
+
+-&gt;</description>
+      <pubDate>Wed, 25 Nov 2026 20:13:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>@tldrmorgan: SPEED. SCALE. SOPHISTICATION. Agentic cyberattacks have changed the economics of…</title>
+      <link>https://x.com/tldrmorgan/status/2125680286889312706</link>
+      <guid isPermaLink="false">2125680286889312706</guid>
+      <description>SPEED. SCALE. SOPHISTICATION.
+
+Agentic cyberattacks have changed the economics of attack. Defense has to change with it.
+
+In roughly three months, open-source agentic frameworks went from GitHub releases to active use by criminal and state-aligned actors, and onto the radar of the U.S. Intelligence Community.
+
+Speed
+- Microsoft observed an agentic agent move from a leaked secret on public GitHub to exfiltrating Azure Key Vault data in five minutes.
+- Some campaigns reached privileged cloud acces</description>
+      <pubDate>Wed, 25 Nov 2026 19:57:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>@jimmy_voxel51: Join us Jan 21 for the monthly AI, ML and Computer Vision Meetup. Register for t…</title>
+      <link>https://x.com/jimmy_voxel51/status/2125666055909470346</link>
+      <guid isPermaLink="false">2125666055909470346</guid>
+      <description>Join us Jan 21 for the monthly AI, ML and Computer Vision Meetup. Register for the Zoom: https://t.co/g2PFLfybLO
+
+Talks will include:
+
+* Verifier-Gated Generative Tutoring: When the LLM Writes Lessons but Never Decides Mastery - Animesh Alang at SlugAI (UC Santa Cruz)
+
+* Can an Open-Weight Model Power a Physical AI Agent? Serving Gemma 4 on Google TPUs with Voxel51 - Adonai Vera at Voxel51
+
+* Building CAD for Machine Intelligence: The Future of AI-Driven Engineering - Debao Huang at Spectral Lab</description>
+      <pubDate>Wed, 25 Nov 2026 19:00:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>@hashbuilds_: I don't know Python (@ThePSF). This month I shipped: → an AI agent that flips st…</title>
+      <link>https://x.com/hashbuilds_/status/2125648213029896228</link>
+      <guid isPermaLink="false">2125648213029896228</guid>
+      <description>I don't know Python (@ThePSF).
+
+This month I shipped:
+→ an AI agent that flips stuff on @eBay
+→ a live map of free stuff in London
+→ an open-source tool to escape @salesforce
+
+There's never been a better time to be a non-technical builder.
+
+What are you building?</description>
+      <pubDate>Wed, 25 Nov 2026 17:50:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>@switch_ai_: Are you attending AI Dev - New York City next week? Come meet the Switch AI Team…</title>
+      <link>https://x.com/switch_ai_/status/2125643384496771571</link>
+      <guid isPermaLink="false">2125643384496771571</guid>
+      <description>Are you attending AI Dev - New York City next week?
+
+Come meet the Switch AI Team!
+
+Our Head of Engineering, Timo Bozsolik-Torres is leading a workshop: Building an AI Agent Team: Lessons from 45 Agents and 5 Developers on Tuesday in Aquitana East + West.
+
+Attendees will learn:
+
+Practical lessons on how to run agents at scale 
+Common challenges with agent co-ordination, context and reliability
+How to bring multiple agents into a shared workflow using open-source tools
+How to get started with the</description>
+      <pubDate>Wed, 25 Nov 2026 17:30:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>@HoodieFade_: Anthropic CEO Dario Amodei said on live TV what nobody in tech wants to say out…</title>
+      <link>https://x.com/HoodieFade_/status/2125642638258749610</link>
+      <guid isPermaLink="false">2125642638258749610</guid>
+      <description>Anthropic CEO Dario Amodei said on live TV what nobody in tech wants to say out loud
+
+The man building Claude went on the record with what CEOs admit only behind closed doors
+
+Within 1 to 5 years, up to 50% of entry-level roles in finance, law, consulting and tech are going to vanish
+
+Two years ago AI worked like a smart high schooler, and now it works like a smart college student who never asks for a raise
+
+"I don't think we can stop the AI bus"
+
+Anthropic's own data shows 77% of business use o</description>
+      <pubDate>Wed, 25 Nov 2026 17:27:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>@bTradeLLC: AI in Managed File Transfer: Less Time Searching Logs, More Time Solving Problem…</title>
+      <link>https://x.com/bTradeLLC/status/2125630141913051385</link>
+      <guid isPermaLink="false">2125630141913051385</guid>
+      <description>AI in Managed File Transfer: Less Time Searching Logs, More Time Solving Problems.
+
+Let's be honest. Nobody wakes up in the morning excited about spending three hours searching through logs to figure out why a file transfer failed. 😄
+Yet for many IT teams, that's still part of everyday life.
+A customer reports a missing file. An important transaction is delayed. A trading partner says everything looks fine on their side.
+And suddenly, the investigation begins.
+Check the transfer logs. Check the </description>
+      <pubDate>Wed, 25 Nov 2026 16:38:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>@TheYotg: HiSkill: Empowering LLM Agents with Hierarchical Skill Graphs 🕸️ What an AI agen…</title>
+      <link>https://x.com/TheYotg/status/2125626242405728266</link>
+      <guid isPermaLink="false">2125626242405728266</guid>
+      <description>HiSkill: Empowering LLM Agents with Hierarchical Skill Graphs 🕸️
+
+What an AI agent has learned from past work is usually stored as a flat list of notes. The relationships between those notes are what the agent needs most, and a list leaves them out.
+
+HiSkill, from Beijing University of Posts and Telecommunications, China Mobile Shaanxi and Ant Group, stores that experience as a graph instead. It is built from past runs and used at inference time, with no model retraining.
+
+How the graph is shape</description>
+      <pubDate>Wed, 25 Nov 2026 16:22:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>@read__the__diff: Good morning, USA 🇺🇸 Looking to #connect with builders working on: 🔒 Security: s…</title>
+      <link>https://x.com/read__the__diff/status/2125580449875366144</link>
+      <guid isPermaLink="false">2125580449875366144</guid>
+      <description>Good morning, USA 🇺🇸
+
+Looking to #connect with builders working on:
+
+🔒 Security: secure by design, calm when incidents hit
+🧩 Open source: maintainers and first-time contributors
+⚙️ Backend &amp; infra: Postgres, queues, on-call
+🍎 Product: product-led growth
+
+I share what I learn building my side projects. Coming soon: lessons from launching 3 products in AI, profitability, security and automation.
+
+Tell me what you're shipping right now 👇</description>
+      <pubDate>Wed, 25 Nov 2026 13:20:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>@hqmank: Lauren Tan just shipped /reframe in pstack. It targets a common vibe coding prob…</title>
+      <link>https://x.com/hqmank/status/2125494895293186262</link>
+      <guid isPermaLink="false">2125494895293186262</guid>
+      <description>Lauren Tan just shipped /reframe in pstack.
+
+It targets a common vibe coding problem: you know what you want, but you can't describe it to the AI, especially in a field you don't know.
+
+Say you're building a video editor and have never heard of voice activity detection (VAD) or non-destructive editing. Your prompt never mentions them.
+
+/reframe teaches you the terms that matter and ties each one to a real project. Then it points out what you missed and rewrites your request.
+
+Pair it with /sharp</description>
+      <pubDate>Wed, 25 Nov 2026 07:40:47 GMT</pubDate>
+    </item>
     <item>
       <title>@studiohe289: Two faceless YouTube channels generate 10 MILLION views. One could earn $20,000.…</title>
       <link>https://x.com/studiohe289/status/2125318597647982613</link>
