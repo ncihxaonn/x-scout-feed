@@ -5,7 +5,88 @@
     <link>https://x.com</link>
     <description>Raw public English X posts (search results, unverified, author claims are self-reported) about recent AI model/product/API releases, agent and dev-tool capabilities, multimodal progress, papers, open-source demos, and AI failures, limits, security issues and controversies. Small search sample: not a trending list; allegations are unverified leads.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Nov 2026 20:37:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 20:40:56 GMT</lastBuildDate>
+    <item>
+      <title>@stretchcloud: Google shipped Gemini for Mac on November 19th with full computer use: it clicks…</title>
+      <link>https://x.com/stretchcloud/status/2126388084451545556</link>
+      <guid isPermaLink="false">2126388084451545556</guid>
+      <description>Google shipped Gemini for Mac on November 19th with full computer use: it clicks, types, fills forms and drives other apps in a sandboxed window while you keep working in a different one, with a live preview streaming into the chat. Three days earlier Apple had already said it was tightening Full Disk Access, explicit user action only, because, in Apple's own words, as AI agents become increasingly capable and autonomous the risks will grow substantially. Two companies describing the same six mo</description>
+      <pubDate>Fri, 27 Nov 2026 18:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>@jimmy_voxel51: Join us Jan 21 for the monthly AI, ML and Computer Vision Meetup. Register for t…</title>
+      <link>https://x.com/jimmy_voxel51/status/2126375552130978287</link>
+      <guid isPermaLink="false">2126375552130978287</guid>
+      <description>Join us Jan 21 for the monthly AI, ML and Computer Vision Meetup. Register for the Zoom: https://t.co/QakT65zsWA
+
+Talks will include:
+
+* Verifier-Gated Generative Tutoring: When the LLM Writes Lessons but Never Decides Mastery - Animesh Alang at SlugAI (UC Santa Cruz)
+
+* Can an Open-Weight Model Power a Physical AI Agent? Serving Gemma 4 on Google TPUs with Voxel51 - Adonai Vera at Voxel51
+
+* Building CAD for Machine Intelligence: The Future of AI-Driven Engineering - Debao Huang at Spectral Lab</description>
+      <pubDate>Fri, 27 Nov 2026 18:00:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>@arkyyang: "ShellBench: What Matters More for AI Agents, Models, or Harness for Everyday Ta…</title>
+      <link>https://x.com/arkyyang/status/2126327756694929526</link>
+      <guid isPermaLink="false">2126327756694929526</guid>
+      <description>"ShellBench: What Matters More for AI Agents, Models, or Harness for Everyday Tasks" — new paper (arXiv preprint, Nov 24, 2026). https://t.co/EO8RSfTmWr
+
+In plain terms: an AI agent is two parts. One is the model (the LLM that thinks). The other is the harness (the software around it that reads files, runs tools and loops, such as Claude Code, Codex or OpenClaw). The authors built 100 everyday tasks from real user requests, with messy files and conflicting records, and ran 12 models in 5 harness</description>
+      <pubDate>Fri, 27 Nov 2026 14:50:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>@jlsuarez: I've been exploring an interesting problem in AI-powered observability: how much…</title>
+      <link>https://x.com/jlsuarez/status/2126323295951736859</link>
+      <guid isPermaLink="false">2126323295951736859</guid>
+      <description>I've been exploring an interesting problem in AI-powered observability: how much operational data does an AI agent actually need to understand an incident?
+
+After reading Netflix's engineering article on Ontology-Driven Observability, I decided to experiment with the architecture myself, explore some of the design trade-offs and benchmark the results.
+
+The result is ograph, an open-source observability knowledge graph written entirely in Rust.
+
+The premise is relatively simple. Most of the infor</description>
+      <pubDate>Fri, 27 Nov 2026 14:32:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>@TheMitchWilder: Recently I built my own operating system in about 10 hours. Built, implemented,…</title>
+      <link>https://x.com/TheMitchWilder/status/2126315557045596478</link>
+      <guid isPermaLink="false">2126315557045596478</guid>
+      <description>Recently I built my own operating system in about 10 hours.
+
+Built, implemented, functional, and fully operational.
+
+But let's rewind for a second...
+
+About three years ago, I tried to build the exact same thing.
+
+It cost me 2 months. 60 days of my time and somebody else's time. And somewhere around $8,000 to $12,000 in pay and software.
+
+At the end of it, it didn't work.
+
+Every year around the same time, if I haven't done what I set out to do, I look at it and think, it's probably the operating</description>
+      <pubDate>Fri, 27 Nov 2026 14:01:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>@RodrigoRiveraAv: OpenAI, Anthropic and xAI have each released their own agent harness in the past…</title>
+      <link>https://x.com/RodrigoRiveraAv/status/2126010355281248500</link>
+      <guid isPermaLink="false">2126010355281248500</guid>
+      <description>OpenAI, Anthropic and xAI have each released their own agent harness in the past few months, so I spent the past month testing all three on a real project to find which one suits me best. https://t.co/76ybLwzACV</description>
+      <pubDate>Thu, 26 Nov 2026 17:49:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>@cutetoxicguy: A new 35B open-weight AI model can run eight autonomous agents on a single NVIDI…</title>
+      <link>https://x.com/cutetoxicguy/status/2126005564069367821</link>
+      <guid isPermaLink="false">2126005564069367821</guid>
+      <description>A new 35B open-weight AI model can run eight autonomous agents on a single NVIDIA DGX Spark, with support for a million-token context. 🧠
+
+Meet Surogate 3.7 35B-A3B, a model built for local AI agents, coding, enterprise automation, and long-running workflows.
+
+Developed by the https://t.co/vNeXniVbYc</description>
+      <pubDate>Thu, 26 Nov 2026 17:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>@AlexTimDaoLong: If you are an AI automation builder getting likes and fire emojis from other bro…</title>
       <link>https://x.com/AlexTimDaoLong/status/2125684244752048607</link>
